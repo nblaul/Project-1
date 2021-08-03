@@ -5615,123 +5615,343 @@
 5613,5470,2020,18,Sims Jr.,Steven,WR,15,Buccaneers,Washington,0,0,0,0,0,0,0,1,4,0,3,33,1,,,,,,
 5614,5470,2020,18,McKissic,J.D.,WR,30,Buccaneers,Washington,0,0,0,0,0,0,0,2,5,1,2,8,0,,,,,,
 5615,5470,2020,18,Wright,Isaiah,WR,83,Buccaneers,Washington,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5616,5472,2020,18,Trubisky,Mitchell,QB,10,Saints,Bears,29,19,199,1,0,1,8,3,10,0,0,0,0,,,,,,
-5617,5472,2020,18,Montgomery,David,RB,32,Saints,Bears,0,0,0,0,0,0,0,12,31,0,0,0,0,,,,,,
-5618,5472,2020,18,Nall,Ryan,RB,35,Saints,Bears,0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,
-5619,5472,2020,18,Kmet,Cole,TE,85,Saints,Bears,0,0,0,0,0,0,0,0,0,0,3,16,0,,,,,,
-5620,5472,2020,18,Graham,J,TE,80,Saints,Bears,0,0,0,0,0,0,0,0,0,0,2,25,1,,,,,,
-5621,5472,2020,18,Carter,D,WR,18,Saints,Bears,0,0,0,0,0,0,0,1,3,0,3,17,0,,,,,,
-5622,5472,2020,18,Miller,Anthony,WR,17,Saints,Bears,0,0,0,0,0,0,0,1,2,0,2,22,0,,,,,,
-5623,5472,2020,18,Robinson,A,WR,15,Saints,Bears,0,0,0,0,0,0,0,0,0,0,6,55,0,,,,,,
-5624,5472,2020,18,Patterson,C,WR,84,Saints,Bears,0,0,0,0,0,0,0,1,2,0,0,0,0,,,,,,
-5625,5472,2020,18,Wims,Javon,WR,83,Saints,Bears,0,0,0,0,0,0,0,0,0,0,1,28,0,,,,,,
-5626,5472,2020,18,Ridley,Riley,WR,88,Saints,Bears,0,0,0,0,0,0,0,0,0,0,2,36,0,,,,,,
-5627,5468,2020,18,Allen,Josh,QB,17,Colts,Bills,35,26,324,2,0,2,23,11,54,1,0,0,0,,,,,,
-5628,5468,2020,18,Moss,Zack,RB,20,Colts,Bills,0,0,0,0,0,0,0,7,21,0,4,26,0,,,,,,
-5629,5468,2020,18,Singletary,Devin,RB,26,Colts,Bills,0,0,0,0,0,0,0,3,21,0,3,23,0,,,,,,
-5630,5468,2020,18,Knox,Dawson,TE,88,Colts,Bills,0,0,0,0,0,0,0,0,0,0,2,5,1,,,,,,
-5631,5468,2020,18,Beasley,C,WR,11,Colts,Bills,0,0,0,0,0,0,0,0,0,0,7,57,0,,,,,,
-5632,5468,2020,18,Brown,John,WR,12,Colts,Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5633,5468,2020,18,Roberts,A,WR,12,Colts,Bills,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5634,5468,2020,18,Diggs,S,WR,14,Colts,Bills,0,0,0,0,0,0,0,0,0,0,6,128,1,,,,,,
-5635,5468,2020,18,Davis,Gabriel,WR,13,Colts,Bills,0,0,0,0,0,0,0,0,0,0,4,85,0,,,,,,
-5636,5473,2020,18,Johnson,D,CB,30,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5637,5473,2020,18,Mayfield,Baker,QB,6,Steelers,Browns,34,21,263,3,0,0,0,5,3,0,0,0,0,,,,,,
-5638,5473,2020,18,Chubb,Nick,RB,24,Steelers,Browns,0,0,0,0,0,0,0,18,76,0,4,69,1,,,,,,
-5639,5473,2020,18,Hunt,Kareem,RB,27,Steelers,Browns,0,0,0,0,0,0,0,8,48,2,1,13,0,,,,,,
-5640,5473,2020,18,Hooper,A,TE,81,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,7,46,1,,,,,,
-5641,5473,2020,18,Njoku,David,TE,85,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,1,7,0,,,,,,
-5642,5473,2020,18,Landry,J,WR,14,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,5,92,1,,,,,,
-5643,5473,2020,18,Peoples-Jones,Donovan,WR,11,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,1,8,0,,,,,,
-5644,5473,2020,18,Higgins,R,WR,81,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,2,28,0,,,,,,
-5645,5470,2020,18,Brady,T,QB,12,Washington,Buccaneers,40,22,381,2,0,3,16,3,-2,0,0,0,0,,,,,,
-5646,5470,2020,18,Fournette,Leonard,RB,27,Washington,Buccaneers,0,0,0,0,0,0,0,19,93,1,4,39,0,,,,,,
-5647,5470,2020,18,Vaughn,Ke'Shawn,RB,30,Washington,Buccaneers,0,0,0,0,0,0,0,5,21,0,0,0,0,,,,,,
-5648,5470,2020,18,Brate,C,TE,84,Washington,Buccaneers,0,0,0,0,0,0,0,0,0,0,4,80,0,,,,,,
-5649,5470,2020,18,Gronkowski,R,TE,87,Washington,Buccaneers,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5650,5470,2020,18,Mickens,Jaydon,WR,85,Washington,Buccaneers,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5651,5470,2020,18,Godwin,Chris,WR,12,Washington,Buccaneers,0,0,0,0,0,0,0,0,0,0,5,79,1,,,,,,
-5652,5470,2020,18,Evans,M,WR,13,Washington,Buccaneers,0,0,0,0,0,0,0,0,0,0,6,119,0,,,,,,
-5653,5470,2020,18,Miller,Scott,WR,10,Washington,Buccaneers,0,0,0,0,0,0,0,1,8,0,1,15,0,,,,,,
-5654,5470,2020,18,Brown,A,WR,86,Washington,Buccaneers,0,0,0,0,0,0,0,1,22,0,2,49,1,,,,,,
-5655,5468,2020,18,Rivers,P,QB,17,Bills,Colts,46,27,309,2,0,0,0,1,-1,0,0,0,0,,,,,,
-5656,5468,2020,18,Brissett,J,QB,7,Bills,Colts,0,0,0,0,0,0,0,1,0,0,0,0,0,,,,,,
-5657,5468,2020,18,Taylor,Jonathan,RB,28,Bills,Colts,0,0,0,0,0,0,0,21,78,1,2,6,0,,,,,,
-5658,5468,2020,18,Hines,Nyheim,RB,21,Bills,Colts,0,0,0,0,0,0,0,6,75,0,1,8,0,,,,,,
-5659,5468,2020,18,Doyle,J,TE,84,Bills,Colts,0,0,0,0,0,0,0,0,0,0,7,70,1,,,,,,
-5660,5468,2020,18,Alie-Cox,Mo,TE,81,Bills,Colts,0,0,0,0,0,0,0,0,0,0,4,32,0,,,,,,
-5661,5468,2020,18,Burton,T,TE,47,Bills,Colts,0,0,0,0,0,0,0,0,0,0,3,34,0,,,,,,
-5662,5468,2020,18,Hilton,T,WR,13,Bills,Colts,0,0,0,0,0,0,0,0,0,0,2,32,0,,,,,,
-5663,5468,2020,18,Pittman,Michael,WR,11,Bills,Colts,0,0,0,0,0,0,0,1,11,0,5,90,0,,,,,,
-5664,5468,2020,18,Pascal,Zach,WR,14,Bills,Colts,0,0,0,0,0,0,0,0,0,0,3,37,1,,,,,,
-5665,5469,2020,18,Wolford,John,QB,9,Seahawks,Rams,6,3,29,0,0,1,0,1,2,0,0,0,0,,,,,,
-5666,5469,2020,18,Goff,J,QB,16,Seahawks,Rams,19,9,155,1,0,2,15,4,4,0,0,0,0,,,,,,
-5667,5469,2020,18,Akers,Cam,RB,23,Seahawks,Rams,0,0,0,0,0,0,0,28,131,1,2,45,0,,,,,,
-5668,5469,2020,18,Brown,M,RB,39,Seahawks,Rams,0,0,0,0,0,0,0,9,30,0,1,9,0,,,,,,
-5669,5469,2020,18,Everett,Gerald,TE,81,Seahawks,Rams,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5670,5469,2020,18,Higbee,T,TE,89,Seahawks,Rams,0,0,0,0,0,0,0,0,0,0,1,4,0,,,,,,
-5671,5469,2020,18,Webster,Nsimba,WR,14,Seahawks,Rams,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5672,5469,2020,18,Kupp,Cooper,WR,18,Seahawks,Rams,0,0,0,0,0,0,0,0,0,0,4,78,0,,,,,,
-5673,5469,2020,18,Woods,R,WR,81,Seahawks,Rams,0,0,0,0,0,0,0,1,-3,0,4,48,1,,,,,,
-5674,5471,2020,18,Jackson,Lamar,QB,8,Titans,Ravens,24,17,179,0,1,5,14,16,136,1,0,0,0,,,,,,
-5675,5471,2020,18,Dobbins,J.K.,RB,27,Titans,Ravens,0,0,0,0,0,0,0,9,43,1,1,-6,0,,,,,,
-5676,5471,2020,18,Edwards,Gus,RB,35,Titans,Ravens,0,0,0,0,0,0,0,8,38,0,0,0,0,,,,,,
-5677,5471,2020,18,Ricard,Patrick,RB,42,Titans,Ravens,0,0,0,0,0,0,0,0,0,0,3,26,0,,,,,,
-5678,5471,2020,18,Andrews,Mark,TE,89,Titans,Ravens,0,0,0,0,0,0,0,0,0,0,4,41,0,,,,,,
-5679,5471,2020,18,Duvernay,Devin,WR,13,Titans,Ravens,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5680,5471,2020,18,Brown,Marquise,WR,15,Titans,Ravens,0,0,0,0,0,0,0,2,19,0,7,109,0,,,,,,
-5681,5471,2020,18,Boykin,Miles,WR,80,Titans,Ravens,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5682,5471,2020,18,Snead,W,WR,83,Titans,Ravens,0,0,0,0,0,0,0,0,0,0,2,9,0,,,,,,
-5683,5471,2020,18,Bryant,D,WR,88,Titans,Ravens,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5684,5472,2020,18,Burton,M,FB,46,Bears,Saints,0,0,0,0,0,0,0,0,0,0,2,15,0,,,,,,
-5685,5472,2020,18,Brees,D,QB,9,Bears,Saints,39,28,265,2,0,0,0,3,2,0,0,0,0,,,,,,
-5686,5472,2020,18,Hill,Taysom,QB,7,Bears,Saints,0,0,0,0,0,1,3,4,15,0,2,5,0,,,,,,
-5687,5472,2020,18,Kamara,Alvin,RB,41,Bears,Saints,0,0,0,0,0,0,0,23,99,1,2,17,0,,,,,,
-5688,5472,2020,18,Murray,L,RB,28,Bears,Saints,0,0,0,0,0,0,0,4,9,0,2,11,1,,,,,,
-5689,5472,2020,18,Trautman,Adam,TE,82,Bears,Saints,0,0,0,0,0,0,0,0,0,0,1,4,0,,,,,,
-5690,5472,2020,18,Cook,J,TE,43,Bears,Saints,0,0,0,0,0,0,0,0,0,0,4,40,0,,,,,,
-5691,5472,2020,18,Thomas,M,WR,13,Bears,Saints,0,0,0,0,0,0,0,0,0,0,5,73,1,,,,,,
-5692,5472,2020,18,Harris,Deonte,WR,11,Bears,Saints,0,0,0,0,0,0,0,1,-2,0,7,83,0,,,,,,
-5693,5472,2020,18,Sanders,E,WR,88,Bears,Saints,0,0,0,0,0,0,0,0,0,0,2,3,0,,,,,,
-5694,5472,2020,18,Humphrey,Lil'Jordan,WR,84,Bears,Saints,0,0,0,0,0,0,0,0,0,0,1,14,0,,,,,,
-5695,5469,2020,18,Wilson,R,QB,3,Rams,Seahawks,27,11,174,2,1,5,32,4,50,0,0,0,0,,,,,,
-5696,5469,2020,18,Carson,Chris,RB,32,Rams,Seahawks,0,0,0,0,0,0,0,16,77,0,1,5,0,,,,,,
-5697,5469,2020,18,Hyde,C,RB,28,Rams,Seahawks,0,0,0,0,0,0,0,4,5,0,0,0,0,,,,,,
-5698,5469,2020,18,Hollister,Jacob,TE,47,Rams,Seahawks,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5699,5469,2020,18,Dissly,Will,TE,88,Rams,Seahawks,0,0,0,0,0,0,0,0,0,0,1,1,0,,,,,,
-5700,5469,2020,18,Moore,David,WR,83,Rams,Seahawks,0,0,0,0,0,0,0,1,4,0,1,1,0,,,,,,
-5701,5469,2020,18,Lockett,T,WR,16,Rams,Seahawks,0,0,0,0,0,0,0,0,0,0,2,43,0,,,,,,
-5702,5469,2020,18,Metcalf,D.K.,WR,14,Rams,Seahawks,0,0,0,0,0,0,0,0,0,0,5,96,2,,,,,,
-5703,5469,2020,18,Swain,Freddie,WR,18,Rams,Seahawks,0,0,0,0,0,0,0,0,0,0,1,28,0,,,,,,
-5704,5473,2020,18,Watt,D,FB,34,Browns,Steelers,0,0,0,0,0,0,0,2,2,0,0,0,0,,,,,,
-5705,5473,2020,18,Roethlisberger,B,QB,7,Browns,Steelers,68,47,501,4,4,0,0,1,0,0,0,0,0,,,,,,
-5706,5473,2020,18,McCloud,Ray-Ray,RB,14,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5707,5473,2020,18,Conner,James,RB,30,Browns,Steelers,0,0,0,0,0,0,0,11,37,1,5,30,0,,,,,,
-5708,5473,2020,18,Snell Jr.,Benny,RB,24,Browns,Steelers,0,0,0,0,0,0,0,2,13,0,1,4,0,,,,,,
-5709,5473,2020,18,Ebron,E,TE,85,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,7,62,1,,,,,,
-5710,5473,2020,18,McDonald,V,TE,89,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5711,5473,2020,18,Johnson,Diontae,WR,18,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,11,117,0,,,,,,
-5712,5473,2020,18,Smith-Schuster,Juju,WR,19,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,13,157,1,,,,,,
-5713,5473,2020,18,Washington,James,WR,13,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,5,72,0,,,,,,
-5714,5473,2020,18,Claypool,Chase,WR,11,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,5,59,2,,,,,,
-5715,5471,2020,18,Tannehill,R,QB,17,Ravens,Titans,26,18,165,1,1,1,7,2,6,0,1,-10,0,,,,,,
-5716,5471,2020,18,Henry,D,RB,22,Ravens,Titans,0,0,0,0,0,0,0,18,40,0,3,11,0,,,,,,
-5717,5471,2020,18,McNichols,Jeremy,RB,30,Ravens,Titans,0,0,0,0,0,0,0,1,4,0,0,0,0,,,,,,
-5718,5471,2020,18,Evans,Darrynton,RB,32,Ravens,Titans,0,0,0,0,0,0,0,1,1,0,0,0,0,,,,,,
-5719,5471,2020,18,Smith,Jonnu,TE,81,Ravens,Titans,0,0,0,0,0,0,0,0,0,0,2,9,0,,,,,,
-5720,5471,2020,18,Firkser,Anthony,TE,86,Ravens,Titans,0,0,0,0,0,0,0,0,0,0,2,44,0,,,,,,
-5721,5471,2020,18,Swaim,G,TE,87,Ravens,Titans,0,0,0,0,0,0,0,0,0,0,1,5,0,,,,,,
-5722,5471,2020,18,Brown,A.J.,WR,11,Ravens,Titans,0,0,0,0,0,0,0,0,0,0,6,83,1,,,,,,
-5723,5471,2020,18,Raymond,Kalif,WR,19,Ravens,Titans,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5724,5471,2020,18,Westbrook,Nick,WR,15,Ravens,Titans,0,0,0,0,0,0,0,0,0,0,2,17,0,,,,,,
-5725,5471,2020,18,Davis,Corey,WR,84,Ravens,Titans,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
-5726,5471,2020,18,Batson,Cameron,WR,17,Ravens,Titans,0,0,0,0,0,0,0,0,0,0,1,6,0,,,,,,
-5727,5470,2020,18,Heinicke,Taylor,QB,6,Buccaneers,Washington,44,26,306,1,1,2,17,6,46,1,0,0,0,,,,,,
-5728,5470,2020,18,Thomas,L,QB,6,Buccaneers,Washington,0,0,0,0,0,0,0,0,0,0,5,74,0,,,,,,
-5729,5470,2020,18,Sprinkle,Jeremy,TE,87,Buccaneers,Washington,0,0,0,0,0,0,0,0,0,0,1,8,0,,,,,,
-5730,5470,2020,18,Gibson,Antonio,WR,24,Buccaneers,Washington,0,0,0,0,0,0,0,14,31,0,2,4,0,,,,,,
-5731,5470,2020,18,Sims,Cam,WR,89,Buccaneers,Washington,0,0,0,0,0,0,0,0,0,0,7,104,0,,,,,,
-5732,5470,2020,18,McLaurin,Terry,WR,17,Buccaneers,Washington,0,0,0,0,0,0,0,0,0,0,6,75,0,,,,,,
-5733,5470,2020,18,Sims Jr.,Steven,WR,15,Buccaneers,Washington,0,0,0,0,0,0,0,1,4,0,3,33,1,,,,,,
-5734,5470,2020,18,McKissic,J.D.,WR,30,Buccaneers,Washington,0,0,0,0,0,0,0,2,5,1,2,8,0,,,,,,
-5735,5470,2020,18,Wright,Isaiah,WR,83,Buccaneers,Washington,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,,
+5616,5467,2020,17,Juszczyk,K,FB,40,Seahawks,49ers,0,0,0,0,0,0,0,1,0,0,1,4,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5617,5467,2020,17,Beathard,C.J.,QB,3,Seahawks,49ers,37,25,273,1,0,3,31,3,10,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5618,5467,2020,17,Wilson,Jeff,RB,41,Seahawks,49ers,0,0,0,0,0,0,0,20,76,1,3,12,1,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5619,5467,2020,17,Walter,Austin,RB,0,Seahawks,49ers,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5620,5467,2020,17,McKinnon,J,RB,31,Seahawks,49ers,0,0,0,0,0,0,0,0,0,0,1,6,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5621,5467,2020,17,Kittle,George,TE,85,Seahawks,49ers,0,0,0,0,0,0,0,0,0,0,7,68,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5622,5467,2020,17,Woerner,Charlie,TE,89,Seahawks,49ers,0,0,0,0,0,0,0,0,0,0,1,3,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5623,5467,2020,17,Dwelley,Ross,TE,82,Seahawks,49ers,0,0,0,0,0,0,0,0,0,0,2,21,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5624,5467,2020,17,Cracraft,River,WR,19,Seahawks,49ers,0,0,0,0,0,0,0,0,0,0,2,17,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5625,5467,2020,17,Bourne,Kendrick,WR,84,Seahawks,49ers,0,0,0,0,0,0,0,0,0,0,5,76,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5626,5467,2020,17,James,Richie,WR,13,Seahawks,49ers,0,0,0,0,0,0,0,0,0,0,3,66,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5627,5454,2020,17,Trubisky,Mitchell,QB,10,Packers,Bears,42,33,252,0,1,1,4,4,22,0,0,0,0,2020.0,Regular,Grass,34.0,mist,6.93
+5628,5454,2020,17,Montgomery,David,RB,32,Packers,Bears,0,0,0,0,0,0,0,22,69,1,9,63,0,2020.0,Regular,Grass,34.0,mist,6.93
+5629,5454,2020,17,Pierce,Artavis,RB,46,Packers,Bears,0,0,0,0,0,0,0,1,-1,0,0,0,0,2020.0,Regular,Grass,34.0,mist,6.93
+5630,5454,2020,17,Kmet,Cole,TE,85,Packers,Bears,0,0,0,0,0,0,0,0,0,0,7,41,0,2020.0,Regular,Grass,34.0,mist,6.93
+5631,5454,2020,17,Graham,J,TE,80,Packers,Bears,0,0,0,0,0,0,0,0,0,0,2,5,0,2020.0,Regular,Grass,34.0,mist,6.93
+5632,5454,2020,17,Mooney,Darnell,WR,11,Packers,Bears,0,0,0,0,0,0,0,0,0,0,11,93,0,2020.0,Regular,Grass,34.0,mist,6.93
+5633,5454,2020,17,Miller,Anthony,WR,17,Packers,Bears,0,0,0,0,0,0,0,0,0,0,2,13,0,2020.0,Regular,Grass,34.0,mist,6.93
+5634,5454,2020,17,Patterson,C,WR,84,Packers,Bears,0,0,0,0,0,0,0,4,18,0,0,0,0,2020.0,Regular,Grass,34.0,mist,6.93
+5635,5454,2020,17,Robinson,A,WR,15,Packers,Bears,0,0,0,0,0,0,0,0,0,0,2,37,0,2020.0,Regular,Grass,34.0,mist,6.93
+5636,5454,2020,17,Carter,D,WR,18,Packers,Bears,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,34.0,mist,6.93
+5637,5454,2020,17,Wims,Javon,WR,83,Packers,Bears,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,34.0,mist,6.93
+5638,5455,2020,17,Allen,Brandon,QB,8,Ravens,Bengals,21,6,48,0,2,0,0,1,2,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5639,5455,2020,17,Perine,Samaje,RB,32,Ravens,Bengals,0,0,0,0,0,0,0,9,51,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5640,5455,2020,17,Bernard,G,RB,25,Ravens,Bengals,0,0,0,0,0,0,0,3,7,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5641,5455,2020,17,Williams,Trayveon,RB,32,Ravens,Bengals,0,0,0,0,0,0,0,4,74,0,1,3,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5642,5455,2020,17,Sample,Drew,TE,89,Ravens,Bengals,0,0,0,0,0,0,0,0,0,0,2,15,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5643,5455,2020,17,Carter,Cethan,TE,82,Ravens,Bengals,0,0,0,0,0,0,0,0,0,0,1,21,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5644,5455,2020,17,Higgins,Tee,WR,85,Ravens,Bengals,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5645,5455,2020,17,Thomas,Michael,WR,31,Ravens,Bengals,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5646,5455,2020,17,Boyd,T,WR,83,Ravens,Bengals,0,0,0,0,0,0,0,1,11,0,1,1,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5647,5455,2020,17,Erickson,A,WR,12,Ravens,Bengals,0,0,0,0,0,0,0,1,2,0,1,8,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5648,5455,2020,17,Green,A,WR,18,Ravens,Bengals,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5649,5452,2020,17,Allen,Josh,QB,17,Dolphins,Bills,25,18,224,3,1,1,11,2,3,0,0,0,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5650,5452,2020,17,Barkley,M,QB,2,Dolphins,Bills,13,6,164,1,1,0,0,3,-3,0,0,0,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5651,5452,2020,17,Singletary,Devin,RB,26,Dolphins,Bills,0,0,0,0,0,0,0,3,7,0,1,6,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5652,5452,2020,17,Moss,Zack,RB,20,Dolphins,Bills,0,0,0,0,0,0,0,3,8,0,1,13,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5653,5452,2020,17,Williams,Antonio,RB,35,Dolphins,Bills,0,0,0,0,0,0,0,12,63,2,1,20,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5654,5452,2020,17,Knox,Dawson,TE,88,Dolphins,Bills,0,0,0,0,0,0,0,0,0,0,2,29,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5655,5452,2020,17,Brown,John,WR,12,Dolphins,Bills,0,0,0,0,0,0,0,0,0,0,4,72,1,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5656,5452,2020,17,McKenzie,Isaiah,WR,19,Dolphins,Bills,0,0,0,0,0,0,0,2,0,0,6,65,2,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5657,5452,2020,17,Diggs,S,WR,14,Dolphins,Bills,0,0,0,0,0,0,0,0,0,0,7,76,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5658,5452,2020,17,Davis,Gabriel,WR,13,Dolphins,Bills,0,0,0,0,0,0,0,0,0,0,2,107,1,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5659,5465,2020,17,Lock,Drew,QB,3,Raiders,Broncos,41,25,339,2,0,2,15,2,7,0,0,0,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5660,5465,2020,17,Gordon,M,RB,28,Raiders,Broncos,0,0,0,0,0,0,0,26,93,1,4,17,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5661,5465,2020,17,Freeman,Royce,RB,28,Raiders,Broncos,0,0,0,0,0,0,0,2,21,0,1,1,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5662,5465,2020,17,Bellamy,Levante,RB,32,Raiders,Broncos,0,0,0,0,0,0,0,1,0,0,0,0,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5663,5465,2020,17,Fumagalli,Troy,TE,84,Raiders,Broncos,0,0,0,0,0,0,0,0,0,0,2,15,1,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5664,5465,2020,17,Fant,Noah,TE,87,Raiders,Broncos,0,0,0,0,0,0,0,0,0,0,4,48,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5665,5465,2020,17,Spencer,Diontae,WR,11,Raiders,Broncos,0,0,0,0,0,0,0,1,1,0,1,9,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5666,5465,2020,17,Jeudy,Jerry,WR,10,Raiders,Broncos,0,0,0,0,0,0,0,0,0,0,5,140,1,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5667,5465,2020,17,Patrick,Tim,WR,81,Raiders,Broncos,0,0,0,0,0,0,0,0,0,0,2,46,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5668,5465,2020,17,Cleveland,Tyrie,WR,16,Raiders,Broncos,0,0,0,0,0,0,0,0,0,0,4,45,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5669,5465,2020,17,Hamilton,DaeSean,WR,17,Raiders,Broncos,0,0,0,0,0,0,0,0,0,0,2,18,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5670,5456,2020,17,Johnson,D,CB,30,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5671,5456,2020,17,Janovich,A,FB,32,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5672,5456,2020,17,Mayfield,Baker,QB,6,Steelers,Browns,27,17,196,1,0,4,30,6,44,0,0,0,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5673,5456,2020,17,Chubb,Nick,RB,24,Steelers,Browns,0,0,0,0,0,0,0,14,108,1,0,0,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5674,5456,2020,17,Hunt,Kareem,RB,27,Steelers,Browns,0,0,0,0,0,0,0,10,37,0,1,4,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5675,5456,2020,17,Hooper,A,TE,81,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,4,37,1,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5676,5456,2020,17,Njoku,David,TE,85,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,2,13,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5677,5456,2020,17,Peoples-Jones,Donovan,WR,11,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,1,11,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5678,5456,2020,17,Landry,J,WR,14,Steelers,Browns,0,0,0,0,0,0,0,1,3,1,5,51,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5679,5456,2020,17,Higgins,R,WR,81,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,2,55,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5680,5456,2020,17,Hodge,Khadarel,WR,11,Steelers,Browns,0,0,0,0,0,0,0,0,0,0,2,25,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5681,5464,2020,17,Brady,T,QB,12,Falcons,Buccaneers,41,26,399,4,1,1,8,5,3,0,0,0,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5682,5464,2020,17,Fournette,Leonard,RB,27,Falcons,Buccaneers,0,0,0,0,0,0,0,5,13,0,2,14,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5683,5464,2020,17,Jones,Ronald,RB,27,Falcons,Buccaneers,0,0,0,0,0,0,0,12,78,1,0,0,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5684,5464,2020,17,Gronkowski,R,TE,87,Falcons,Buccaneers,0,0,0,0,0,0,0,0,0,0,2,29,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5685,5464,2020,17,Brate,C,TE,84,Falcons,Buccaneers,0,0,0,0,0,0,0,0,0,0,1,11,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5686,5464,2020,17,Mickens,Jaydon,WR,85,Falcons,Buccaneers,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5687,5464,2020,17,Evans,M,WR,13,Falcons,Buccaneers,0,0,0,0,0,0,0,0,0,0,3,46,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5688,5464,2020,17,Godwin,Chris,WR,12,Falcons,Buccaneers,0,0,0,0,0,0,0,0,0,0,5,133,2,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5689,5464,2020,17,Brown,A,WR,86,Falcons,Buccaneers,0,0,0,0,0,0,0,0,0,0,11,138,2,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5690,5464,2020,17,Miller,Scott,WR,10,Falcons,Buccaneers,0,0,0,0,0,0,0,0,0,0,1,12,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5691,5464,2020,17,Johnson,Tyler,WR,18,Falcons,Buccaneers,0,0,0,0,0,0,0,0,0,0,1,16,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5692,5466,2020,17,Murray,Kyler,QB,1,Rams,Cardinals,11,8,87,0,0,2,16,2,3,0,0,0,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5693,5466,2020,17,Streveler,Chris,QB,15,Rams,Cardinals,16,11,105,1,1,2,10,3,12,0,0,0,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5694,5466,2020,17,Drake,K,RB,32,Rams,Cardinals,0,0,0,0,0,0,0,10,36,0,3,15,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5695,5466,2020,17,Ward,Jonathan,RB,38,Rams,Cardinals,0,0,0,0,0,0,0,0,0,0,1,11,1,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5696,5466,2020,17,Edmonds,Chase,RB,29,Rams,Cardinals,0,0,0,0,0,0,0,3,-3,0,2,28,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5697,5466,2020,17,Foster,D,RB,27,Rams,Cardinals,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5698,5466,2020,17,Arnold,Dan,TE,85,Rams,Cardinals,0,0,0,0,0,0,0,0,0,0,3,46,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5699,5466,2020,17,Johnson,K,WR,19,Rams,Cardinals,0,0,0,0,0,0,0,0,0,0,2,13,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5700,5466,2020,17,Hopkins,D,WR,10,Rams,Cardinals,0,0,0,0,0,0,0,0,0,0,4,35,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5701,5466,2020,17,Sherfield,Trent,WR,16,Rams,Cardinals,0,0,0,0,0,0,0,0,0,0,4,44,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5702,5460,2020,17,Herbert,Justin,QB,10,Chiefs,Chargers,31,22,302,3,0,3,21,6,9,1,0,0,0,2020.0,Regular,Grass,32.0,fog,9.17
+5703,5460,2020,17,Ekeler,Austin,RB,30,Chiefs,Chargers,0,0,0,0,0,0,0,7,18,0,6,33,1,2020.0,Regular,Grass,32.0,fog,9.17
+5704,5460,2020,17,Jackson,Justin,RB,32,Chiefs,Chargers,0,0,0,0,0,0,0,9,72,0,1,32,0,2020.0,Regular,Grass,32.0,fog,9.17
+5705,5460,2020,17,Ballage,Kalen,RB,27,Chiefs,Chargers,0,0,0,0,0,0,0,13,36,1,0,0,0,2020.0,Regular,Grass,32.0,fog,9.17
+5706,5460,2020,17,Nabers,Gabe,RB,40,Chiefs,Chargers,0,0,0,0,0,0,0,0,0,0,1,5,0,2020.0,Regular,Grass,32.0,fog,9.17
+5707,5460,2020,17,Parham,Donald,TE,0,Chiefs,Chargers,0,0,0,0,0,0,0,0,0,0,3,37,1,2020.0,Regular,Grass,32.0,fog,9.17
+5708,5460,2020,17,Anderson,S,TE,89,Chiefs,Chargers,0,0,0,0,0,0,0,0,0,0,3,52,0,2020.0,Regular,Grass,32.0,fog,9.17
+5709,5460,2020,17,Williams,Mike,WR,81,Chiefs,Chargers,0,0,0,0,0,0,0,0,0,0,6,108,1,2020.0,Regular,Grass,32.0,fog,9.17
+5710,5460,2020,17,Guyton,Jalen,WR,8,Chiefs,Chargers,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,32.0,fog,9.17
+5711,5460,2020,17,Hill,K.J.,WR,84,Chiefs,Chargers,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,32.0,fog,9.17
+5712,5460,2020,17,Johnson,Tyron,WR,3,Chiefs,Chargers,0,0,0,0,0,0,0,0,0,0,2,35,0,2020.0,Regular,Grass,32.0,fog,9.17
+5713,5460,2020,17,Sherman,A,FB,35,Chargers,Chiefs,0,0,0,0,0,0,0,1,6,0,0,0,0,2020.0,Regular,Grass,32.0,fog,9.17
+5714,5460,2020,17,Henne,C,QB,7,Chargers,Chiefs,32,23,218,2,0,1,1,2,0,0,0,0,0,2020.0,Regular,Grass,32.0,fog,9.17
+5715,5460,2020,17,Thompson,Darwin,RB,34,Chargers,Chiefs,0,0,0,0,0,0,0,14,45,1,7,65,1,2020.0,Regular,Grass,32.0,fog,9.17
+5716,5460,2020,17,Williams,Darrel,RB,31,Chargers,Chiefs,0,0,0,0,0,0,0,0,0,0,1,2,0,2020.0,Regular,Grass,32.0,fog,9.17
+5717,5460,2020,17,Yelder,Deon,TE,82,Chargers,Chiefs,0,0,0,0,0,0,0,0,0,0,2,6,0,2020.0,Regular,Grass,32.0,fog,9.17
+5718,5460,2020,17,Hardman,Mecole,WR,17,Chargers,Chiefs,0,0,0,0,0,0,0,0,0,0,2,25,0,2020.0,Regular,Grass,32.0,fog,9.17
+5719,5460,2020,17,Pringle,Byron,WR,7,Chargers,Chiefs,0,0,0,0,0,0,0,0,0,0,4,52,1,2020.0,Regular,Grass,32.0,fog,9.17
+5720,5460,2020,17,Robinson,D,WR,14,Chargers,Chiefs,0,0,0,0,0,0,0,0,0,0,6,58,0,2020.0,Regular,Grass,32.0,fog,9.17
+5721,5460,2020,17,Dieter,Gehrig,WR,4,Chargers,Chiefs,0,0,0,0,0,0,0,0,0,0,1,10,0,2020.0,Regular,Grass,32.0,fog,9.17
+5722,5457,2020,17,Rivers,P,QB,17,Jaguars,Colts,27,17,164,1,1,0,0,2,-2,0,0,0,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5723,5457,2020,17,Brissett,J,QB,7,Jaguars,Colts,0,0,0,0,0,0,0,2,3,0,0,0,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5724,5457,2020,17,Hines,Nyheim,RB,21,Jaguars,Colts,0,0,0,0,0,0,0,2,17,0,6,50,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5725,5457,2020,17,Taylor,Jonathan,RB,28,Jaguars,Colts,0,0,0,0,0,0,0,30,253,2,1,1,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5726,5457,2020,17,Doyle,J,TE,84,Jaguars,Colts,0,0,0,0,0,0,0,0,0,0,3,17,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5727,5457,2020,17,Dulin,Ashton,WR,16,Jaguars,Colts,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5728,5457,2020,17,Hilton,T,WR,13,Jaguars,Colts,0,0,0,0,0,0,0,0,0,0,3,27,1,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5729,5457,2020,17,Pascal,Zach,WR,14,Jaguars,Colts,0,0,0,0,0,0,0,0,0,0,2,41,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5730,5457,2020,17,Pittman,Michael,WR,11,Jaguars,Colts,0,0,0,0,0,0,0,1,2,0,2,28,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5731,5462,2020,17,Dalton,A,QB,14,Giants,Cowboys,47,29,243,0,1,6,44,7,48,0,0,0,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5732,5462,2020,17,Pollard,Tony,RB,20,Giants,Cowboys,0,0,0,0,0,0,0,5,15,0,3,18,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5733,5462,2020,17,Elliott,E,RB,21,Giants,Cowboys,0,0,0,0,0,0,0,14,42,1,3,19,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5734,5462,2020,17,Schultz,Dalton,TE,86,Giants,Cowboys,0,0,0,0,0,0,0,0,0,0,7,70,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5735,5462,2020,17,Cooper,A,WR,89,Giants,Cowboys,0,0,0,0,0,0,0,0,0,0,6,41,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5736,5462,2020,17,Lamb,CeeDee,WR,88,Giants,Cowboys,0,0,0,0,0,0,0,1,3,0,5,43,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5737,5462,2020,17,Gallup,Michael,WR,13,Giants,Cowboys,0,0,0,0,0,0,0,0,0,0,4,49,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5738,5462,2020,17,Wilson,Cedrick,WR,16,Giants,Cowboys,0,0,0,0,0,0,0,0,0,0,1,3,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5739,5452,2020,17,Tagovailoa,Tua,QB,1,Bills,Dolphins,58,35,361,1,3,1,9,6,28,0,0,0,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5740,5452,2020,17,Gaskin,Myles,RB,37,Bills,Dolphins,0,0,0,0,0,0,0,7,20,1,4,57,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5741,5452,2020,17,Ahmed,Salvon,RB,26,Bills,Dolphins,0,0,0,0,0,0,0,6,29,1,3,19,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5742,5452,2020,17,Smythe,Durham,TE,81,Bills,Dolphins,0,0,0,0,0,0,0,0,0,0,3,23,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5743,5452,2020,17,Shaheen,Adam,TE,87,Bills,Dolphins,0,0,0,0,0,0,0,0,0,0,1,22,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5744,5452,2020,17,Gesicki,Mike,TE,86,Bills,Dolphins,0,0,0,0,0,0,0,0,0,0,5,47,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5745,5452,2020,17,Bowden,Lynn,WR,15,Bills,Dolphins,1,1,32,0,0,0,0,1,-7,0,8,44,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5746,5452,2020,17,Parker,D,WR,11,Bills,Dolphins,0,0,0,0,0,0,0,0,0,0,7,116,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5747,5452,2020,17,Ford,Isaiah,WR,15,Bills,Dolphins,0,0,0,0,0,0,0,0,0,0,3,37,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5748,5452,2020,17,Perry,Malcolm,WR,10,Bills,Dolphins,0,0,0,0,0,0,0,0,0,0,1,25,1,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5749,5452,2020,17,Hollins,Mack,WR,10,Bills,Dolphins,0,0,0,0,0,0,0,0,0,0,1,3,0,2020.0,Regular,Turf,35.0,overcast clouds,1.5
+5750,5463,2020,17,Hurts,Jalen,QB,2,Washington,Eagles,20,7,72,0,1,1,5,8,34,2,0,0,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5751,5463,2020,17,Sudfeld,Nate,QB,7,Washington,Eagles,12,5,32,0,1,2,16,2,12,0,0,0,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5752,5463,2020,17,Scott,Boston,RB,49,Washington,Eagles,0,0,0,0,0,0,0,15,65,0,2,14,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5753,5463,2020,17,Huntley,Jason,RB,32,Washington,Eagles,0,0,0,0,0,0,0,2,5,0,1,0,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5754,5463,2020,17,Clement,Corey,RB,30,Washington,Eagles,0,0,0,0,0,0,0,1,1,0,1,7,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5755,5463,2020,17,Ertz,Z,TE,86,Washington,Eagles,0,0,0,0,0,0,0,0,0,0,3,16,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5756,5463,2020,17,Wilson,Caleb,TE,83,Washington,Eagles,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5757,5463,2020,17,Ward Jr.,Greg,WR,84,Washington,Eagles,1,1,15,0,0,0,0,0,0,0,1,6,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5758,5463,2020,17,Fulgham,Travis,WR,14,Washington,Eagles,0,0,0,0,0,0,0,0,0,0,1,15,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5759,5463,2020,17,Reagor,Jalen,WR,18,Washington,Eagles,0,0,0,0,0,0,0,0,0,0,1,15,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5760,5463,2020,17,Arcega-Whiteside,J.J.,WR,19,Washington,Eagles,0,0,0,0,0,0,0,0,0,0,2,40,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5761,5463,2020,17,Watkins,Quez,WR,80,Washington,Eagles,0,0,0,0,0,0,0,0,0,0,1,6,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5762,5463,2020,17,Hightower,John,WR,82,Washington,Eagles,0,0,0,0,0,0,0,1,1,0,0,0,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5763,5464,2020,17,Ryan,M,QB,2,Buccaneers,Falcons,44,29,265,2,0,1,7,3,1,1,0,0,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5764,5464,2020,17,Gurley,T,RB,30,Buccaneers,Falcons,0,0,0,0,0,0,0,9,18,0,1,17,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5765,5464,2020,17,Smith,Ito,RB,25,Buccaneers,Falcons,0,0,0,0,0,0,0,3,9,0,1,7,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5766,5464,2020,17,Hill,Brian,RB,32,Buccaneers,Falcons,0,0,0,0,0,0,0,9,94,0,3,42,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5767,5464,2020,17,Stocker,L,TE,88,Buccaneers,Falcons,0,0,0,0,0,0,0,0,0,0,1,13,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5768,5464,2020,17,Hurst,Hayden,TE,81,Buccaneers,Falcons,0,0,0,0,0,0,0,0,0,0,4,28,1,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5769,5464,2020,17,Rowland,Chris,WR,14,Buccaneers,Falcons,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5770,5464,2020,17,Ridley,Calvin,WR,18,Buccaneers,Falcons,0,0,0,0,0,0,0,1,-6,0,8,52,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5771,5464,2020,17,Gage,Russell,WR,83,Buccaneers,Falcons,0,0,0,0,0,0,0,1,11,0,9,91,1,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5772,5464,2020,17,Treadwell,L,WR,11,Buccaneers,Falcons,0,0,0,0,0,0,0,0,0,0,2,15,0,2020.0,Regular,Grass,65.0,overcast clouds,5.82
+5773,5462,2020,17,Jones,D,P,8,Cowboys,Giants,25,17,229,2,1,2,18,9,17,0,0,0,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5774,5462,2020,17,Lewis,D,RB,28,Cowboys,Giants,0,0,0,0,0,0,0,1,7,0,0,0,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5775,5462,2020,17,Gallman,Wayne,RB,22,Cowboys,Giants,0,0,0,0,0,0,0,11,65,0,0,0,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5776,5462,2020,17,Morris,A,RB,46,Cowboys,Giants,0,0,0,0,0,0,0,5,12,0,0,0,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5777,5462,2020,17,Engram,Evan,TE,88,Cowboys,Giants,0,0,0,0,0,0,0,0,0,0,2,17,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5778,5462,2020,17,Smith,Kaden,TE,82,Cowboys,Giants,0,0,0,0,0,0,0,0,0,0,1,16,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5779,5462,2020,17,Toilolo,L,TE,80,Cowboys,Giants,0,0,0,0,0,0,0,0,0,0,1,10,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5780,5462,2020,17,Shepard,S,WR,87,Cowboys,Giants,0,0,0,0,0,0,0,2,24,1,8,112,1,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5781,5462,2020,17,Mack,Austin,WR,81,Cowboys,Giants,0,0,0,0,0,0,0,0,0,0,1,9,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5782,5462,2020,17,Slayton,Darius,WR,86,Cowboys,Giants,0,0,0,0,0,0,0,0,0,0,2,22,0,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5783,5462,2020,17,Pettis,Dante,WR,18,Cowboys,Giants,0,0,0,0,0,0,0,0,0,0,2,43,1,2020.0,Regular,Turf,36.0,overcast clouds,16.11
+5784,5457,2020,17,Glennon,M,QB,8,Colts,Jaguars,42,26,261,2,0,6,35,1,2,0,0,0,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5785,5457,2020,17,Ogunbowale,Dare,RB,44,Colts,Jaguars,0,0,0,0,0,0,0,14,50,0,4,22,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5786,5457,2020,17,Eifert,T,TE,85,Colts,Jaguars,0,0,0,0,0,0,0,0,0,0,1,10,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5787,5457,2020,17,Saubert,Eric,TE,85,Colts,Jaguars,0,0,0,0,0,0,0,0,0,0,1,9,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5788,5457,2020,17,O'Shaughnessy,J,TE,80,Colts,Jaguars,0,0,0,0,0,0,0,0,0,0,1,10,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5789,5457,2020,17,Conley,C,WR,17,Colts,Jaguars,0,0,0,0,0,0,0,0,0,0,7,87,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5790,5457,2020,17,Godwin,Terry,WR,0,Colts,Jaguars,0,0,0,0,0,0,0,1,3,0,3,32,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5791,5457,2020,17,Shenault Jr.,Laviska,WR,10,Colts,Jaguars,0,0,0,0,0,0,0,1,-2,0,6,68,2,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5792,5457,2020,17,Cole,Keelan,WR,84,Colts,Jaguars,0,0,0,0,0,0,0,0,0,0,3,23,0,2020.0,Regular,Turf-Roof,34.0,overcast clouds,14.99
+5793,5461,2020,17,Darnold,Sam,QB,14,Patriots,Jets,34,23,266,1,2,3,27,1,3,0,0,0,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5794,5461,2020,17,Johnson,Ty,RB,31,Patriots,Jets,0,0,0,0,0,0,0,11,45,0,2,23,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5795,5461,2020,17,Adams,Josh,RB,33,Patriots,Jets,0,0,0,0,0,0,0,11,47,1,2,12,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5796,5461,2020,17,Griffin,R,TE,84,Patriots,Jets,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5797,5461,2020,17,Herndon,Chris,TE,89,Patriots,Jets,0,0,0,0,0,0,0,0,0,0,7,63,1,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5798,5461,2020,17,Berrios,Braxton,WR,14,Patriots,Jets,0,0,0,0,0,0,0,2,16,0,3,20,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5799,5461,2020,17,Crowder,J,WR,80,Patriots,Jets,0,0,0,0,0,0,0,0,0,0,4,31,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5800,5461,2020,17,Mims,Denzel,WR,11,Patriots,Jets,0,0,0,0,0,0,0,0,0,0,1,15,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5801,5461,2020,17,Perriman,B,WR,18,Patriots,Jets,0,0,0,0,0,0,0,0,0,0,3,84,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5802,5461,2020,17,Smith,Jeff,WR,9,Patriots,Jets,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5803,5461,2020,17,Brown,D,WR,83,Patriots,Jets,0,0,0,0,0,0,0,0,0,0,1,18,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5804,5461,2020,17,Smith,Vyncint,WR,17,Patriots,Jets,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5805,5458,2020,17,Agnew,Jamal,DB,39,Vikings,Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5806,5458,2020,17,Stafford,M,QB,9,Vikings,Lions,31,20,293,3,1,1,5,2,9,0,0,0,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5807,5458,2020,17,Swift,D'Andre,RB,32,Vikings,Lions,0,0,0,0,0,0,0,12,54,1,3,16,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5808,5458,2020,17,Peterson,A,RB,29,Vikings,Lions,0,0,0,0,0,0,0,7,63,1,0,0,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5809,5458,2020,17,Johnson,Kerryon,RB,33,Vikings,Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5810,5458,2020,17,Hockenson,T.J.,TE,88,Vikings,Lions,0,0,0,0,0,0,0,0,0,0,3,25,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5811,5458,2020,17,James,J,TE,81,Vikings,Lions,0,0,0,0,0,0,0,0,0,0,1,2,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5812,5458,2020,17,Bryant,Hunter,TE,86,Vikings,Lions,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5813,5458,2020,17,Amendola,D,WR,16,Vikings,Lions,0,0,0,0,0,0,0,0,0,0,1,6,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5814,5458,2020,17,Jones,M,WR,89,Vikings,Lions,0,0,0,0,0,0,0,0,0,0,8,180,2,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5815,5458,2020,17,Sanu,M,WR,12,Vikings,Lions,0,0,0,0,0,0,0,1,3,0,2,13,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5816,5458,2020,17,Cephus,Quintez,WR,87,Vikings,Lions,0,0,0,0,0,0,0,0,0,0,2,51,1,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5817,5454,2020,17,Rodgers,A,QB,12,Bears,Packers,24,19,240,4,0,1,3,1,4,0,0,0,0,2020.0,Regular,Grass,34.0,mist,6.93
+5818,5454,2020,17,Jones,Aaron,RB,33,Bears,Packers,0,0,0,0,0,0,0,11,42,1,4,43,0,2020.0,Regular,Grass,34.0,mist,6.93
+5819,5454,2020,17,Williams,Jamaal,RB,30,Bears,Packers,0,0,0,0,0,0,0,5,26,0,0,0,0,2020.0,Regular,Grass,34.0,mist,6.93
+5820,5454,2020,17,Dillon,A.J.,RB,28,Bears,Packers,0,0,0,0,0,0,0,1,3,0,0,0,0,2020.0,Regular,Grass,34.0,mist,6.93
+5821,5454,2020,17,Tonyan Jr.,Robert,TE,85,Bears,Packers,0,0,0,0,0,0,0,0,0,0,2,18,1,2020.0,Regular,Grass,34.0,mist,6.93
+5822,5454,2020,17,Lewis,M,TE,89,Bears,Packers,0,0,0,0,0,0,0,0,0,0,1,9,0,2020.0,Regular,Grass,34.0,mist,6.93
+5823,5454,2020,17,Dafney,Dominique,TE,49,Bears,Packers,0,0,0,0,0,0,0,0,0,0,1,13,1,2020.0,Regular,Grass,34.0,mist,6.93
+5824,5454,2020,17,Taylor,Malik,WR,86,Bears,Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,34.0,mist,6.93
+5825,5454,2020,17,Valdes-Scantling,Marquez,WR,83,Bears,Packers,0,0,0,0,0,0,0,1,4,0,2,87,1,2020.0,Regular,Grass,34.0,mist,6.93
+5826,5454,2020,17,Adams,D,WR,17,Bears,Packers,0,0,0,0,0,0,0,0,0,0,6,46,1,2020.0,Regular,Grass,34.0,mist,6.93
+5827,5454,2020,17,Austin,T,WR,18,Bears,Packers,0,0,0,0,0,0,0,0,0,0,1,7,0,2020.0,Regular,Grass,34.0,mist,6.93
+5828,5454,2020,17,St. Brown,Equanimeous,WR,19,Bears,Packers,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,34.0,mist,6.93
+5829,5454,2020,17,Lazard,Allen,WR,13,Bears,Packers,0,0,0,0,0,0,0,0,0,0,2,17,0,2020.0,Regular,Grass,34.0,mist,6.93
+5830,5453,2020,17,Bridgewater,T,QB,5,Saints,Panthers,23,13,176,0,2,1,10,3,7,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5831,5453,2020,17,Stevens,Tommy,QB,15,Saints,Panthers,0,0,0,0,0,0,0,4,24,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5832,5453,2020,17,Walker,Phillip,QB,8,Saints,Panthers,14,5,95,0,3,2,15,0,0,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5833,5453,2020,17,Smith,Rodney,RB,35,Saints,Panthers,0,0,0,0,0,0,0,10,40,1,1,4,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5834,5453,2020,17,Armah,Alex,RB,40,Saints,Panthers,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5835,5453,2020,17,Cannon,Trenton,RB,40,Saints,Panthers,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5836,5453,2020,17,Thomas,Ian,TE,80,Saints,Panthers,0,0,0,0,0,0,0,0,0,0,1,-1,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5837,5453,2020,17,Moore,D.J.,WR,12,Saints,Panthers,0,0,0,0,0,0,0,0,0,0,5,101,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5838,5453,2020,17,Samuel,Curtis,WR,10,Saints,Panthers,0,0,0,0,0,0,0,3,3,0,7,118,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5839,5453,2020,17,Cooper,P,WR,10,Saints,Panthers,0,0,0,0,0,0,0,0,0,0,1,9,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5840,5453,2020,17,Anderson,Robby,WR,83,Saints,Panthers,0,0,0,0,0,0,0,0,0,0,3,40,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5841,5461,2020,17,Newton,C,QB,1,Jets,Patriots,30,21,242,3,0,3,23,11,79,0,1,19,1,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5842,5461,2020,17,Taylor,J.J.,RB,42,Jets,Patriots,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5843,5461,2020,17,Michel,Sony,RB,26,Jets,Patriots,0,0,0,0,0,0,0,16,76,0,3,60,1,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5844,5461,2020,17,White,J,RB,34,Jets,Patriots,0,0,0,0,0,0,0,0,0,0,4,31,1,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5845,5461,2020,17,Asiasi,Devin,TE,86,Jets,Patriots,0,0,0,0,0,0,0,0,0,0,2,39,1,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5846,5461,2020,17,Keene,Dalton,TE,44,Jets,Patriots,0,0,0,0,0,0,0,0,0,0,1,6,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5847,5461,2020,17,Meyers,Jakobi,WR,16,Jets,Patriots,1,1,19,1,0,0,0,1,7,0,6,68,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5848,5461,2020,17,Olszewski,Gunner,WR,80,Jets,Patriots,0,0,0,0,0,0,0,0,0,0,2,14,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5849,5461,2020,17,Byrd,Damiere,WR,18,Jets,Patriots,0,0,0,0,0,0,0,1,4,0,1,7,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5850,5461,2020,17,Moncrief,D,WR,10,Jets,Patriots,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5851,5461,2020,17,Harry,N'Keal,WR,15,Jets,Patriots,0,0,0,0,0,0,0,0,0,0,2,17,0,2020.0,Regular,Turf,35.0,overcast clouds,3.36
+5852,5465,2020,17,Carr,D,QB,5,Broncos,Raiders,38,24,371,2,2,3,12,2,1,0,0,0,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5853,5465,2020,17,Jacobs,Josh,RB,28,Broncos,Raiders,0,0,0,0,0,0,0,15,89,2,0,0,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5854,5465,2020,17,Booker,Devontae,RB,20,Broncos,Raiders,0,0,0,0,0,0,0,5,16,0,0,0,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5855,5465,2020,17,Riddick,T,RB,41,Broncos,Raiders,0,0,0,0,0,0,0,0,0,0,4,40,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5856,5465,2020,17,Moreau,Foster,TE,87,Broncos,Raiders,0,0,0,0,0,0,0,0,0,0,1,7,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5857,5465,2020,17,Agholor,N,WR,17,Broncos,Raiders,0,0,0,0,0,0,0,0,0,0,1,57,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5858,5465,2020,17,Renfrow,Hunter,WR,13,Broncos,Raiders,0,0,0,0,0,0,0,0,0,0,3,24,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5859,5465,2020,17,Waller,D,WR,12,Broncos,Raiders,0,0,0,0,0,0,0,0,0,0,9,117,1,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5860,5465,2020,17,Jones,Zay,WR,11,Broncos,Raiders,0,0,0,0,0,0,0,0,0,0,1,37,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5861,5465,2020,17,Ruggs,Henry,WR,11,Broncos,Raiders,0,0,0,0,0,0,0,1,0,0,3,38,0,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5862,5465,2020,17,Edwards,Bryan,WR,89,Broncos,Raiders,0,0,0,0,0,0,0,0,0,0,2,51,1,2020.0,Regular,Grass,50.0,scattered clouds,24.16
+5863,5466,2020,17,Wolford,John,QB,9,Cardinals,Rams,38,22,231,0,1,2,8,6,56,0,0,0,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5864,5466,2020,17,Akers,Cam,RB,23,Cardinals,Rams,0,0,0,0,0,0,0,21,34,0,4,52,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5865,5466,2020,17,Calais,Raymond,RB,30,Cardinals,Rams,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5866,5466,2020,17,Brown,M,RB,39,Cardinals,Rams,0,0,0,0,0,0,0,3,20,0,1,-2,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5867,5466,2020,17,Everett,Gerald,TE,81,Cardinals,Rams,0,0,0,0,0,0,0,0,0,0,2,25,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5868,5466,2020,17,Higbee,T,TE,89,Cardinals,Rams,0,0,0,0,0,0,0,0,0,0,3,41,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5869,5466,2020,17,Reynolds,Josh,WR,83,Cardinals,Rams,0,0,0,0,0,0,0,0,0,0,4,29,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5870,5466,2020,17,Jefferson,Van,WR,12,Cardinals,Rams,0,0,0,0,0,0,0,0,0,0,4,50,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5871,5466,2020,17,Woods,R,WR,81,Cardinals,Rams,0,0,0,0,0,0,0,0,0,0,4,36,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5872,5466,2020,17,Webster,Nsimba,WR,14,Cardinals,Rams,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Dome,61.0,clear sky,3.36
+5873,5455,2020,17,Jackson,Lamar,QB,8,Bengals,Ravens,18,10,113,3,1,0,0,11,97,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5874,5455,2020,17,Huntley,Tyler,QB,2,Bengals,Ravens,1,1,8,0,0,0,0,6,5,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5875,5455,2020,17,Edwards,Gus,RB,35,Bengals,Ravens,0,0,0,0,0,0,0,12,60,0,1,10,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5876,5455,2020,17,Ingram,M,RB,28,Bengals,Ravens,0,0,0,0,0,0,0,9,39,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5877,5455,2020,17,Dobbins,J.K.,RB,27,Bengals,Ravens,0,0,0,0,0,0,0,13,160,2,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5878,5455,2020,17,Hill,Justice,RB,43,Bengals,Ravens,0,0,0,0,0,0,0,2,21,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5879,5455,2020,17,Andrews,Mark,TE,89,Bengals,Ravens,0,0,0,0,0,0,0,0,0,0,4,27,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5880,5455,2020,17,Duvernay,Devin,WR,13,Bengals,Ravens,0,0,0,0,0,0,0,1,22,0,0,0,0,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5881,5455,2020,17,Boykin,Miles,WR,80,Bengals,Ravens,0,0,0,0,0,0,0,0,0,0,1,43,1,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5882,5455,2020,17,Brown,Marquise,WR,15,Bengals,Ravens,0,0,0,0,0,0,0,0,0,0,5,41,2,2020.0,Regular,Turf,39.0,overcast clouds,14.99
+5883,5453,2020,17,Brees,D,QB,9,Panthers,Saints,32,22,201,3,0,2,8,0,0,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5884,5453,2020,17,Hill,Taysom,QB,7,Panthers,Saints,0,0,0,0,0,0,0,7,41,1,1,5,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5885,5453,2020,17,Winston,J,QB,3,Panthers,Saints,0,0,0,0,0,0,0,1,-1,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5886,5453,2020,17,Jones,Tony,RB,0,Panthers,Saints,0,0,0,0,0,0,0,3,13,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5887,5453,2020,17,Trautman,Adam,TE,82,Panthers,Saints,0,0,0,0,0,0,0,0,0,0,1,5,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5888,5453,2020,17,Cook,J,TE,43,Panthers,Saints,0,0,0,0,0,0,0,0,0,0,4,43,1,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5889,5453,2020,17,Lewis,T,WR,87,Panthers,Saints,0,0,0,0,0,0,0,1,-2,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5890,5453,2020,17,Sanders,E,WR,88,Panthers,Saints,0,0,0,0,0,0,0,0,0,0,9,63,1,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5891,5453,2020,17,Montgomery,T,WR,88,Panthers,Saints,0,0,0,0,0,0,0,18,105,0,1,2,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5892,5453,2020,17,Humphrey,Lil'Jordan,WR,84,Panthers,Saints,0,0,0,0,0,0,0,0,0,0,1,17,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5893,5453,2020,17,Callaway,Marquez,WR,12,Panthers,Saints,0,0,0,0,0,0,0,0,0,0,3,51,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5894,5453,2020,17,Carr,Austin,WR,80,Panthers,Saints,0,0,0,0,0,0,0,0,0,0,1,11,1,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5895,5453,2020,17,Johnson,Juwan,WR,83,Panthers,Saints,0,0,0,0,0,0,0,0,0,0,1,4,0,2020.0,Regular,Grass,57.0,broken clouds,6.93
+5896,5467,2020,17,Wilson,R,QB,3,49ers,Seahawks,36,20,181,2,0,2,22,5,29,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5897,5467,2020,17,Carson,Chris,RB,32,49ers,Seahawks,0,0,0,0,0,0,0,11,44,0,2,39,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5898,5467,2020,17,Penny,Rashaad,RB,20,49ers,Seahawks,0,0,0,0,0,0,0,6,19,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5899,5467,2020,17,Collins,A,RB,36,49ers,Seahawks,0,0,0,0,0,0,0,5,29,1,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5900,5467,2020,17,Hollister,Jacob,TE,47,49ers,Seahawks,0,0,0,0,0,0,0,0,0,0,1,6,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5901,5467,2020,17,Dissly,Will,TE,88,49ers,Seahawks,0,0,0,0,0,0,0,0,0,0,1,20,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5902,5467,2020,17,Lockett,T,WR,16,49ers,Seahawks,0,0,0,0,0,0,0,0,0,0,12,90,2,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5903,5467,2020,17,Metcalf,D.K.,WR,14,49ers,Seahawks,0,0,0,0,0,0,0,0,0,0,3,21,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5904,5467,2020,17,Swain,Freddie,WR,18,49ers,Seahawks,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5905,5467,2020,17,Moore,David,WR,83,49ers,Seahawks,0,0,0,0,0,0,0,0,0,0,1,5,0,2020.0,Regular,Grass,57.0,broken clouds,4.7
+5906,5456,2020,17,Rudolph,Mason,QB,2,Browns,Steelers,39,22,315,2,1,1,8,1,1,0,0,0,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5907,5456,2020,17,Dobbs,Joshua,QB,5,Browns,Steelers,5,4,2,0,0,0,0,2,20,0,0,0,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5908,5456,2020,17,Conner,James,RB,30,Browns,Steelers,0,0,0,0,0,0,0,9,37,0,5,25,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5909,5456,2020,17,McFarland,Anthony,RB,26,Browns,Steelers,0,0,0,0,0,0,0,5,17,0,0,0,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5910,5456,2020,17,McCloud,Ray-Ray,RB,14,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,2,-3,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5911,5456,2020,17,Snell Jr.,Benny,RB,24,Browns,Steelers,0,0,0,0,0,0,0,3,10,0,0,0,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5912,5456,2020,17,McDonald,V,TE,89,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,5,33,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5913,5456,2020,17,Rader,Kevin,TE,87,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5914,5456,2020,17,Claypool,Chase,WR,11,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,5,101,1,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5915,5456,2020,17,Smith-Schuster,Juju,WR,19,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,6,65,1,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5916,5456,2020,17,Washington,James,WR,13,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5917,5456,2020,17,Johnson,Diontae,WR,18,Browns,Steelers,0,0,0,0,0,0,0,0,0,0,3,96,0,2020.0,Regular,Grass,39.0,overcast clouds,6.93
+5918,5459,2020,17,Watson,Deshaun,QB,4,Titans,Texans,39,28,365,3,1,4,24,3,12,0,0,0,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5919,5459,2020,17,McCarron,A,QB,5,Titans,Texans,1,1,20,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5920,5459,2020,17,Johnson,D,RB,29,Titans,Texans,0,0,0,0,0,0,0,14,84,1,3,36,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5921,5459,2020,17,Hilliard,Dontrell,RB,25,Titans,Texans,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5922,5459,2020,17,Akins,Jordan,TE,88,Titans,Texans,0,0,0,0,0,0,0,0,0,0,1,9,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5923,5459,2020,17,Brown,Pharaoh,TE,86,Titans,Texans,0,0,0,0,0,0,0,0,0,0,5,48,1,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5924,5459,2020,17,Cooks,B,WR,10,Titans,Texans,0,0,0,0,0,0,0,0,0,0,11,166,2,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5925,5459,2020,17,Hansen,Chad,WR,16,Titans,Texans,0,0,0,0,0,0,0,0,0,0,2,16,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5926,5459,2020,17,Coutee,Keke,WR,16,Titans,Texans,0,0,0,0,0,0,0,0,0,0,6,90,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5927,5459,2020,17,Mitchell,Steven,WR,11,Titans,Texans,0,0,0,0,0,0,0,0,0,0,1,20,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5928,5459,2020,17,Tannehill,R,QB,17,Texans,Titans,27,18,216,1,0,2,12,7,38,2,0,0,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5929,5459,2020,17,Henry,D,RB,22,Texans,Titans,0,0,0,0,0,0,0,34,250,2,0,0,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5930,5459,2020,17,Evans,Darrynton,RB,32,Texans,Titans,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5931,5459,2020,17,Firkser,Anthony,TE,86,Texans,Titans,0,0,0,0,0,0,0,0,0,0,2,18,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5932,5459,2020,17,Smith,Jonnu,TE,81,Texans,Titans,0,0,0,0,0,0,0,0,0,0,1,8,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5933,5459,2020,17,Raymond,Kalif,WR,19,Texans,Titans,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5934,5459,2020,17,Brown,A.J.,WR,11,Texans,Titans,0,0,0,0,0,0,0,0,0,0,10,151,1,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5935,5459,2020,17,Davis,Corey,WR,84,Texans,Titans,0,0,0,0,0,0,0,0,0,0,5,39,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5936,5459,2020,17,Westbrook,Nick,WR,15,Texans,Titans,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Roof,64.0,few clouds,12.75
+5937,5458,2020,17,Cousins,K,QB,12,Lions,Vikings,40,28,405,3,0,3,22,5,1,1,0,0,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5938,5458,2020,17,Ham,C.J.,RB,30,Lions,Vikings,0,0,0,0,0,0,0,0,0,0,2,44,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5939,5458,2020,17,Mattison,Alexander,RB,25,Lions,Vikings,0,0,0,0,0,0,0,21,95,1,3,50,1,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5940,5458,2020,17,Abdullah,A,RB,21,Lions,Vikings,0,0,0,0,0,0,0,0,0,0,3,7,1,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5941,5458,2020,17,Boone,Mike,RB,44,Lions,Vikings,0,0,0,0,0,0,0,5,29,0,0,0,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5942,5458,2020,17,Conklin,Tyler,TE,83,Lions,Vikings,0,0,0,0,0,0,0,0,0,0,3,40,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5943,5458,2020,17,Smith Jr.,Irv,TE,84,Lions,Vikings,0,0,0,0,0,0,0,0,0,0,2,30,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5944,5458,2020,17,Beebe,Chad,WR,84,Lions,Vikings,0,0,0,0,0,0,0,0,0,0,2,44,1,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5945,5458,2020,17,Jefferson,Justin,WR,18,Lions,Vikings,0,0,0,0,0,0,0,0,0,0,9,133,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5946,5458,2020,17,Thielen,A,WR,19,Lions,Vikings,0,0,0,0,0,0,0,0,0,0,4,57,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5947,5458,2020,17,Johnson,Olabisi,WR,81,Lions,Vikings,0,0,0,0,0,0,0,0,0,0,0,0,0,2020.0,Regular,Turf-Dome,35.0,mist,3.36
+5948,5463,2020,17,Smith,A,QB,11,Eagles,Washington,32,22,162,2,2,3,17,1,0,0,0,0,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5949,5463,2020,17,Thomas,L,QB,6,Eagles,Washington,0,0,0,0,0,0,0,0,0,0,3,37,1,2020.0,Regular,Grass,38.0,light rain,10.29
+5950,5463,2020,17,Barber,P,RB,43,Eagles,Washington,0,0,0,0,0,0,0,4,10,0,0,0,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5951,5463,2020,17,Sims Jr.,Steven,WR,15,Eagles,Washington,0,0,0,0,0,0,0,1,18,0,1,6,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5952,5463,2020,17,Gibson,Antonio,WR,24,Eagles,Washington,0,0,0,0,0,0,0,19,75,0,1,6,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5953,5463,2020,17,Sims,Cam,WR,89,Eagles,Washington,0,0,0,0,0,0,0,0,0,0,5,43,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5954,5463,2020,17,McKissic,J.D.,WR,30,Eagles,Washington,0,0,0,0,0,0,0,2,0,0,5,30,0,2020.0,Regular,Grass,38.0,light rain,10.29
+5955,5463,2020,17,McLaurin,Terry,WR,17,Eagles,Washington,0,0,0,0,0,0,0,0,0,0,7,40,1,2020.0,Regular,Grass,38.0,light rain,10.29
