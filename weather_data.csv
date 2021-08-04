@@ -1,0 +1,1605 @@
+,gameId,season,type,surface,temperature,conditions,windSpeed
+0,3854,2015,SuperBowl,Grass,76.0,clear sky,16.0
+1,3853,2015,Playoff-CONF,Grass,37.0,clear sky,3.5
+2,3852,2015,Playoff-CONF,Grass,37.0,mostly cloudy,5.8
+3,3849,2015,Playoff-DIV,Grass,37.9,partly cloudy,12.7
+4,3850,2015,Playoff-DIV,Grass,46.4,scattered clouds,6.9
+5,3851,2015,Playoff-DIV,Grass-Roof,0.0,,0.0
+6,3848,2015,Playoff-DIV,Turf,32.0,clear sky,0.0
+7,3847,2015,Playoff-WC,Grass,48.2,clear sky,15.0
+8,3846,2015,Playoff-WC,Turf,-0.9,clear sky,8.1
+9,3845,2015,Playoff-WC,Turf,48.9,rain,5.8
+10,3844,2015,Playoff-WC,Turf-Roof,46.4,overcast,19.6
+11,3843,2015,Regular,Grass,24.1,overcast,10.4
+12,3838,2015,Regular,Grass,46.0,mostly cloudy,6.9
+13,3839,2015,Regular,Grass,30.9,clear sky,8.1
+14,3840,2015,Regular,Grass,36.0,scattered clouds,6.9
+15,3841,2015,Regular,Grass,51.1,mostly cloudy,6.9
+16,3842,2015,Regular,Grass-Roof,64.4,mostly cloudy,6.9
+17,3828,2015,Regular,Turf,32.0,light snow,17.3
+18,3829,2015,Regular,Grass,79.0,overcast,3.5
+19,3830,2015,Regular,Turf,35.1,overcast,4.6
+20,3831,2015,Regular,Turf-Dome,53.1,clear sky,10.4
+21,3832,2015,Regular,Grass,60.8,clear sky,5.8
+22,3833,2015,Regular,Grass,34.0,overcast,16.1
+23,3834,2015,Regular,Turf-Roof,32.0,overcast,10.4
+24,3835,2015,Regular,Turf-Roof,59.0,clear sky,10.4
+25,3836,2015,Regular,Grass,30.0,overcast,16.1
+26,3837,2015,Regular,Turf,43.0,partly cloudy,11.5
+27,3827,2015,Regular,Grass,12.9,scattered clouds,3.5
+28,3826,2015,Regular,Turf,12.9,mostly cloudy,6.9
+29,3817,2015,Regular,Turf-Dome,73.9,overcast,12.7
+30,3824,2015,Regular,Grass-Roof,53.6,clear sky,6.9
+31,3825,2015,Regular,Turf,37.9,light rain,4.6
+32,3814,2015,Regular,Grass,84.0,mostly cloudy,6.9
+33,3815,2015,Regular,Turf-Dome,73.9,overcast,6.9
+34,3816,2015,Regular,Turf,36.0,light snow,11.5
+35,3818,2015,Regular,Turf-Dome,37.9,overcast,16.1
+36,3819,2015,Regular,Grass,34.0,overcast,20.7
+37,3820,2015,Regular,Grass,82.9,mostly cloudy,12.7
+38,3821,2015,Regular,Turf,60.8,overcast,12.7
+39,3822,2015,Regular,Grass,75.9,overcast,4.6
+40,3823,2015,Regular,Turf,68.0,mostly cloudy,11.5
+41,3813,2015,Regular,Grass,52.0,overcast,8.1
+42,3812,2015,Regular,Grass,45.0,partly cloudy,6.9
+43,3811,2015,Regular,Turf-Dome,64.9,partly cloudy,6.9
+44,3810,2015,Regular,Grass,37.0,clear sky,6.9
+45,3805,2015,Regular,Turf,45.0,scattered clouds,10.4
+46,3806,2015,Regular,Grass,51.1,light rain,16.1
+47,3807,2015,Regular,Grass,55.0,partly cloudy,0.0
+48,3808,2015,Regular,Grass,37.0,clear sky,5.8
+49,3809,2015,Regular,Grass,53.1,mostly cloudy,11.5
+50,3798,2015,Regular,Turf,39.9,overcast,4.6
+51,3799,2015,Regular,Grass,68.0,mostly cloudy,11.5
+52,3800,2015,Regular,Turf-Roof,50.0,mostly cloudy,15.0
+53,3801,2015,Regular,Turf,45.0,mostly cloudy,4.6
+54,3802,2015,Regular,Grass,46.4,clear sky,3.5
+55,3803,2015,Regular,Turf,42.1,clear sky,11.5
+56,3804,2015,Regular,Turf,44.1,clear sky,5.8
+57,3797,2015,Regular,Turf-Roof,52.0,mostly cloudy,9.2
+58,3796,2015,Regular,Turf-Dome,35.1,overcast,9.2
+59,3795,2015,Regular,Grass,73.9,clear sky,4.6
+60,3791,2015,Regular,Turf-Roof,48.9,fog,0.0
+61,3792,2015,Regular,Grass,36.0,partly cloudy,3.5
+62,3793,2015,Regular,Grass,54.0,light rain,8.1
+63,3794,2015,Regular,Turf,59.0,mostly cloudy,6.9
+64,3781,2015,Regular,Turf,63.0,clear sky,3.5
+65,3782,2015,Regular,Grass,70.0,overcast,5.8
+66,3783,2015,Regular,Grass,70.0,mostly cloudy,10.4
+67,3784,2015,Regular,Grass,64.9,clear sky,11.5
+68,3785,2015,Regular,Grass,61.0,rain,13.8
+69,3786,2015,Regular,Turf-Dome,64.0,light rain,19.6
+70,3787,2015,Regular,Grass,63.0,light rain,9.2
+71,3788,2015,Regular,Grass,84.0,mostly cloudy,8.1
+72,3789,2015,Regular,Grass,80.1,mostly cloudy,12.7
+73,3790,2015,Regular,Turf,63.0,clear sky,5.8
+74,3780,2015,Regular,Grass-Roof,0.0,,0.0
+75,3779,2015,Regular,Grass,42.8,overcast,0.0
+76,3778,2015,Regular,Grass,44.1,clear sky,4.6
+77,3775,2015,Regular,Grass,64.0,clear sky,5.8
+78,3776,2015,Regular,Grass,57.9,overcast,3.5
+79,3777,2015,Regular,Turf,43.0,clear sky,4.6
+80,3765,2015,Regular,Grass,46.9,mostly cloudy,3.5
+81,3766,2015,Regular,Grass,50.0,clear sky,5.8
+82,3767,2015,Regular,Grass,60.1,scattered clouds,12.7
+83,3768,2015,Regular,Turf,45.0,mostly cloudy,10.4
+84,3769,2015,Regular,Grass,81.0,overcast,15.0
+85,3770,2015,Regular,Turf-Dome,64.0,clear sky,3.5
+86,3771,2015,Regular,Turf,37.0,overcast,3.5
+87,3772,2015,Regular,Turf-Dome,50.0,overcast,8.1
+88,3773,2015,Regular,Grass,81.0,mostly cloudy,9.2
+89,3774,2015,Regular,Turf,53.1,clear sky,6.9
+90,3764,2015,Regular,Turf-Dome,41.0,overcast,8.1
+91,3763,2015,Regular,Grass,45.0,overcast,8.1
+92,3762,2015,Regular,Grass,21.0,light snow,0.0
+93,3760,2015,Regular,Grass,48.9,mostly cloudy,5.8
+94,3761,2015,Regular,Turf,33.8,overcast,3.5
+95,3751,2015,Regular,Turf-Roof,54.0,overcast,10.4
+96,3752,2015,Regular,Turf-Dome,73.0,scattered clouds,8.1
+97,3753,2015,Regular,Turf,45.0,clear sky,9.2
+98,3754,2015,Regular,Turf-Roof,42.1,overcast,9.2
+99,3755,2015,Regular,Grass,46.4,overcast,3.5
+100,3756,2015,Regular,Grass,57.2,rain,12.7
+101,3757,2015,Regular,Grass,37.0,light rain,9.2
+102,3758,2015,Regular,Turf,48.0,clear sky,6.9
+103,3759,2015,Regular,Grass,78.1,mostly cloudy,8.1
+104,3750,2015,Thanksgiving,Grass,35.1,light rain,17.3
+105,3749,2015,Thanksgiving,Turf-Roof,69.8,light rain,9.2
+106,3748,2015,Thanksgiving,Turf-Dome,59.0,scattered clouds,13.8
+107,3747,2015,Regular,Turf,28.9,clear sky,5.8
+108,3744,2015,Regular,Grass-Roof,0.0,,0.0
+109,3741,2015,Regular,Turf,30.9,overcast,12.7
+110,3745,2015,Regular,Grass,71.1,clear sky,5.8
+111,3746,2015,Regular,Turf,44.1,scattered clouds,0.0
+112,3735,2015,Regular,Grass,55.0,scattered clouds,12.7
+113,3736,2015,Regular,Turf-Dome,32.0,clear sky,8.1
+114,3737,2015,Regular,Grass,81.0,clear sky,12.7
+115,3738,2015,Regular,Turf-Dome,48.0,clear sky,12.7
+116,3739,2015,Regular,Turf,45.0,mostly cloudy,10.4
+117,3740,2015,Regular,Turf-Roof,55.9,clear sky,6.9
+118,3742,2015,Regular,Grass,48.9,overcast,15.0
+119,3743,2015,Regular,Grass,25.0,mostly cloudy,8.1
+120,3734,2015,Regular,Grass,73.0,overcast,4.6
+121,3733,2015,Regular,Turf,48.0,overcast,0.0
+122,3732,2015,Regular,Turf,39.9,clear sky,8.1
+123,3729,2015,Regular,Grass,54.0,scattered clouds,18.4
+124,3730,2015,Regular,Grass,45.0,scattered clouds,6.9
+125,3731,2015,Regular,Turf,59.0,clear sky,6.9
+126,3721,2015,Regular,Grass,59.0,clear sky,12.7
+127,3722,2015,Regular,Grass,80.1,mostly cloudy,6.9
+128,3723,2015,Regular,Grass,63.0,mostly cloudy,5.8
+129,3724,2015,Regular,Turf-Dome,66.0,mostly cloudy,16.1
+130,3725,2015,Regular,Grass,64.4,clear sky,5.8
+131,3726,2015,Regular,Grass,61.0,partly cloudy,13.8
+132,3727,2015,Regular,Grass,62.1,clear sky,11.5
+133,3728,2015,Regular,Turf,64.0,clear sky,9.2
+134,3720,2015,Regular,Turf,59.0,overcast,10.4
+135,3719,2015,Regular,Grass,60.1,partly cloudy,0.0
+136,3718,2015,Regular,Turf-Roof,57.0,mostly cloudy,0.0
+137,3715,2015,Regular,Grass,57.9,mostly cloudy,0.0
+138,3716,2015,Regular,Grass,80.1,overcast,4.6
+139,3717,2015,Regular,Turf-Roof,48.9,clear sky,5.8
+140,3708,2015,Regular,Grass,53.1,clear sky,4.6
+141,3709,2015,Regular,Turf,57.9,clear sky,9.2
+142,3710,2015,Regular,Turf,59.0,clear sky,16.1
+143,3711,2015,Regular,Turf,48.0,partly cloudy,16.1
+144,3712,2015,Regular,Turf-Dome,64.9,overcast,20.7
+145,3713,2015,Regular,Turf,55.9,clear sky,12.7
+146,3714,2015,Regular,Grass,55.9,overcast,10.4
+147,3707,2015,Regular,Turf,64.0,mostly cloudy,0.0
+148,3706,2015,Regular,Grass,61.0,rain,9.2
+149,3705,2015,Regular,Grass,43.0,partly cloudy,9.2
+150,3703,2015,Regular,Grass,64.9,mostly cloudy,10.4
+151,3704,2015,Regular,Turf-Roof,63.0,mostly cloudy,0.0
+152,3694,2015,Regular,Grass,75.9,clear sky,10.4
+153,3695,2015,Regular,Grass,64.0,partly cloudy,11.5
+154,3696,2015,Regular,Turf-Dome,64.9,light rain,3.5
+155,3697,2015,Regular,Turf-Dome,70.0,light rain,12.7
+156,3698,2015,Regular,Turf-Dome,71.1,partly cloudy,5.8
+157,3699,2015,Regular,Grass,64.0,clear sky,16.1
+158,3700,2015,Regular,Grass,64.9,clear sky,12.7
+159,3701,2015,Regular,Turf,66.0,mostly cloudy,9.2
+160,3702,2015,Regular,Turf-Roof,69.1,overcast,0.0
+161,3693,2015,Regular,Turf,59.0,clear sky,11.5
+162,3692,2015,Regular,Grass-Roof,0.0,,0.0
+163,3691,2015,Regular,Grass,68.0,overcast,0.0
+164,3689,2015,Regular,Grass,73.9,clear sky,4.6
+165,3690,2015,Regular,Turf,62.1,clear sky,16.1
+166,3680,2015,Regular,Grass,84.0,mostly cloudy,9.2
+167,3681,2015,Regular,Turf-Dome,62.1,mostly cloudy,8.1
+168,3682,2015,Regular,Grass,66.0,clear sky,10.4
+169,3683,2015,Regular,Grass,82.0,overcast,16.1
+170,3684,2015,Regular,Turf,60.1,overcast,6.9
+171,3685,2015,Regular,Turf-Dome,60.1,scattered clouds,4.6
+172,3686,2015,Regular,Grass,61.0,light rain,8.1
+173,3687,2015,Regular,Grass,69.8,clear sky,9.2
+174,3688,2015,Regular,Turf-Roof,61.0,mostly cloudy,9.2
+175,3679,2015,Regular,Grass,63.0,clear sky,5.8
+176,3678,2015,Regular,Grass,48.0,clear sky,9.2
+177,3677,2015,Regular,Turf-Roof,45.0,clear sky,3.5
+178,3669,2015,Regular,Grass,70.0,mostly cloudy,24.2
+179,3674,2015,Regular,Turf,61.0,overcast,5.8
+180,3675,2015,Regular,Grass,48.0,clear sky,5.8
+181,3676,2015,Regular,Grass,66.9,scattered clouds,12.7
+182,3666,2015,Regular,Grass,46.9,mostly cloudy,16.1
+183,3667,2015,Regular,Turf,45.0,mostly cloudy,17.3
+184,3668,2015,Regular,Turf,62.1,partly cloudy,18.4
+185,3670,2015,Regular,Turf-Dome,48.0,mostly cloudy,6.9
+186,3671,2015,Regular,Turf,46.9,clear sky,12.7
+187,3672,2015,Regular,Grass,42.1,overcast,11.5
+188,3673,2015,Regular,Grass,62.1,clear sky,6.9
+189,3665,2015,Regular,Turf-Dome,70.0,clear sky,5.8
+190,3664,2015,Regular,Grass,80.1,clear sky,4.6
+191,3663,2015,Regular,Turf,57.9,clear sky,4.6
+192,3660,2015,Regular,Turf-Dome,73.0,clear sky,11.5
+193,3661,2015,Regular,Turf-Roof,93.0,clear sky,17.3
+194,3662,2015,Regular,Grass,64.9,partly cloudy,11.5
+195,3652,2015,Regular,Grass,82.9,scattered clouds,11.5
+196,3653,2015,Regular,Grass,72.0,mostly cloudy,6.9
+197,3654,2015,Regular,Turf,69.1,partly cloudy,3.5
+198,3655,2015,Regular,Turf-Dome,72.0,overcast,0.0
+199,3656,2015,Regular,Grass,84.0,clear sky,13.8
+200,3657,2015,Regular,Grass,69.1,partly cloudy,10.4
+201,3658,2015,Regular,Grass,78.1,clear sky,16.1
+202,3659,2015,Regular,Turf,71.1,clear sky,10.4
+203,3651,2015,Regular,Turf-Roof,75.0,overcast,0.0
+204,3649,2015,Regular,Turf,61.0,clear sky,0.0
+205,3648,2015,Regular,Turf-Dome,63.0,partly cloudy,24.2
+206,3644,2015,Regular,Grass,66.0,overcast,10.4
+207,3645,2015,Regular,Grass,70.0,scattered clouds,15.0
+208,3646,2015,Regular,Grass,55.0,mostly cloudy,11.5
+209,3647,2015,Regular,Grass-Roof,89.6,mostly cloudy,16.1
+210,3637,2015,Regular,Turf,59.0,clear sky,5.0
+211,3638,2015,Regular,Turf-Roof,72.0,scattered clouds,11.5
+212,3639,2015,Regular,Turf-Dome,70.0,overcast,16.1
+213,3640,2015,Regular,Turf,64.0,mostly cloudy,9.2
+214,3641,2015,Regular,Grass,59.0,mostly cloudy,15.0
+215,3642,2015,Regular,Grass,59.0,overcast,6.9
+216,3643,2015,Regular,Turf,75.0,clear sky,8.1
+217,3650,2015,Regular,Grass,73.0,heavy rain,12.7
+218,3636,2015,Regular,Grass,55.9,overcast,6.9
+219,3635,2015,Regular,Grass,64.0,overcast,4.6
+220,3634,2015,Regular,Turf-Dome,69.1,clear sky,8.1
+221,3631,2015,Regular,Grass-Roof,102.2,partly cloudy,0.0
+222,3632,2015,Regular,Turf,63.0,clear sky,6.9
+223,3633,2015,Regular,Grass,81.0,clear sky,0.0
+224,3621,2015,Regular,Turf-Dome,75.2,overcast,5.8
+225,3622,2015,Regular,Turf,81.0,clear sky,13.8
+226,3623,2015,Regular,Turf-Roof,73.9,light rain,13.8
+227,3624,2015,Regular,Turf,69.1,clear sky,5.8
+228,3625,2015,Regular,Grass,69.1,overcast,9.2
+229,3626,2015,Regular,Turf,73.0,clear sky,0.0
+230,3627,2015,Regular,Turf,73.4,mostly cloudy,12.7
+231,3628,2015,Regular,Grass,77.0,partly cloudy,13.8
+232,3629,2015,Regular,Grass,79.0,overcast,8.1
+233,3630,2015,Regular,Turf,90.0,mostly cloudy,6.9
+234,3620,2015,Regular,Turf,70.0,clear sky,0.0
+235,3619,2015,Regular,Turf-Roof,66.0,clear sky,3.5
+236,3618,2015,Regular,Grass,55.9,clear sky,5.8
+237,3615,2015,Regular,Grass,84.9,partly cloudy,11.5
+238,3616,2015,Regular,Grass,91.0,scattered clouds,10.4
+239,3617,2015,Regular,Grass,78.1,partly cloudy,9.2
+240,3605,2015,Regular,Grass,88.0,mostly cloudy,4.6
+241,3606,2015,Regular,Turf-Dome,91.0,clear sky,5.8
+242,3607,2015,Regular,Grass,66.9,partly cloudy,5.8
+243,3608,2015,Regular,Turf,71.1,scattered clouds,13.8
+244,3609,2015,Regular,Turf,64.9,mostly cloudy,8.1
+245,3610,2015,Regular,Grass,71.1,scattered clouds,9.2
+246,3611,2015,Regular,Grass,68.0,mostly cloudy,13.8
+247,3612,2015,Regular,Turf,71.1,partly cloudy,8.1
+248,3613,2015,Regular,Grass,78.8,scattered clouds,4.6
+249,3614,2015,Regular,Turf,77.0,clear sky,9.2
+250,3604,2015,Regular,Grass,84.0,clear sky,13.8
+251,3602,2015,Regular,Turf-Dome,61.0,clear sky,0.0
+252,3603,2015,Regular,Grass,66.2,mostly cloudy,9.2
+253,3601,2015,Regular,Turf-Roof,80.1,clear sky,13.8
+254,3596,2015,Regular,Grass-Roof,0.0,,0.0
+255,3597,2015,Regular,Grass,82.0,clear sky,8.1
+256,3598,2015,Regular,Grass,82.9,mostly cloudy,11.5
+257,3599,2015,Regular,Grass,64.0,scattered clouds,15.0
+258,3600,2015,Regular,Grass,84.9,mostly cloudy,6.9
+259,3589,2015,Regular,Turf,53.1,light rain,13.8
+260,3590,2015,Regular,Grass,69.1,mostly cloudy,8.1
+261,3591,2015,Regular,Grass-Roof,82.0,partly cloudy,8.1
+262,3592,2015,Regular,Grass,84.0,mostly cloudy,5.8
+263,3593,2015,Regular,Turf,75.9,clear sky,11.5
+264,3594,2015,Regular,Turf-Dome,75.0,partly cloudy,4.6
+265,3595,2015,Regular,Grass,69.8,overcast,8.1
+266,3588,2015,Regular,Turf,64.9,overcast,5.8
+0,4121,2016,SuperBowl,Turf-Roof,,,
+1,4120,2016,Playoff-CONF,Turf,41.0,overcast,9.2
+2,4119,2016,Playoff-CONF,Turf-Dome,62.6,overcast,16.1
+3,4117,2016,Playoff-DIV,Grass,33.1,overcast,3.5
+4,4118,2016,Playoff-DIV,Turf-Roof,62.1,overcast,10.4
+5,4116,2016,Playoff-DIV,Turf,30.9,overcast,4.6
+6,4115,2016,Playoff-DIV,Turf-Dome,64.0,clear sky,3.5
+7,4114,2016,Playoff-WC,Grass,12.9,partly cloudy,6.9
+8,4113,2016,Playoff-WC,Grass,9.0,overcast,15.0
+9,4112,2016,Playoff-WC,Turf,35.1,overcast,5.8
+10,4111,2016,Playoff-WC,Turf-Roof,39.2,clear sky,10.4
+11,4099,2016,Regular,Turf-Dome,29.3,clear sky,0.0
+12,4098,2016,Regular,Grass,39.2,clear sky,0.0
+13,4105,2016,Regular,Turf-Dome,50.0,rain,6.9
+14,4107,2016,Regular,Grass,54.0,mostly cloudy,5.8
+15,4108,2016,Regular,Grass,55.0,scattered clouds,8.1
+16,4109,2016,Regular,Grass,48.2,partly cloudy,10.4
+17,4110,2016,Regular,Grass,36.0,mostly cloudy,8.1
+18,4095,2016,Regular,Grass,0.0,overcast,0.0
+19,4096,2016,Regular,Turf,46.9,clear sky,4.6
+20,4097,2016,Regular,Turf,46.9,scattered clouds,5.8
+21,4100,2016,Regular,Turf-Roof,42.3,clear sky,3.5
+22,4101,2016,Regular,Grass,46.4,clear sky,3.5
+23,4102,2016,Regular,Turf-Dome,30.9,mostly cloudy,6.9
+24,4103,2016,Regular,Grass,79.0,scattered clouds,6.9
+25,4104,2016,Regular,Grass,44.6,clear sky,9.2
+26,4106,2016,Regular,Grass,81.0,mostly cloudy,13.8
+27,4094,2016,Regular,Turf-Roof,62.1,mostly cloudy,5.8
+28,4093,2016,Regular,Grass,54.0,mostly cloudy,8.1
+29,4091,2016,Regular,Grass,35.1,clear sky,5.8
+30,4092,2016,Regular,Turf-Roof,68.0,overcast,12.7
+31,4087,2016,Regular,Turf-Dome,68.0,mostly cloudy,10.4
+32,4088,2016,Regular,Grass,50.0,partly cloudy,9.2
+33,4089,2016,Regular,Grass,53.1,clear sky,0.0
+34,4090,2016,Regular,Turf,37.9,overcast,0.0
+35,4080,2016,Regular,Grass,36.0,overcast,4.6
+36,4081,2016,Regular,Turf,37.0,overcast,9.2
+37,4082,2016,Regular,Grass,63.0,mostly cloudy,10.4
+38,4083,2016,Regular,Grass,37.9,clear sky,4.6
+39,4084,2016,Regular,Turf,44.1,scattered clouds,4.6
+40,4085,2016,Regular,Grass,77.0,partly cloudy,4.6
+41,4086,2016,Regular,Grass,37.0,overcast,6.9
+42,4079,2016,Regular,Turf,42.1,scattered clouds,9.2
+43,4078,2016,Regular,Grass,30.2,clear sky,0.0
+44,4065,2016,Regular,Turf-Roof,23.0,partly cloudy,10.4
+45,4073,2016,Regular,Grass-Roof,59.0,scattered clouds,0.0
+46,4074,2016,Regular,Turf-Dome,37.0,light rain,8.1
+47,4075,2016,Regular,Grass,12.2,clear sky,8.1
+48,4076,2016,Regular,Grass,55.9,partly cloudy,5.8
+49,4066,2016,Regular,Turf,45.0,light rain,19.6
+50,4067,2016,Regular,Turf,46.9,partly cloudy,0.0
+51,4068,2016,Regular,Grass,10.0,partly cloudy,11.5
+52,4069,2016,Regular,Turf-Dome,-6.0,mostly cloudy,8.1
+53,4070,2016,Regular,Turf,24.1,mostly cloudy,11.5
+54,4071,2016,Regular,Grass,10.0,clear sky,4.6
+55,4072,2016,Regular,Turf-Roof,39.2,partly cloudy,18.4
+56,4077,2016,Regular,Turf,25.0,overcast,6.9
+57,4064,2016,Regular,Turf,33.8,overcast,4.6
+58,4063,2016,Regular,Turf,34.0,partly cloudy,5.8
+59,4062,2016,Regular,Turf,37.0,clear sky,8.1
+60,4061,2016,Regular,Turf,30.9,overcast,3.5
+61,4056,2016,Regular,Grass,75.0,overcast,5.8
+62,4058,2016,Regular,Grass,52.0,overcast,4.6
+63,4059,2016,Regular,Grass,24.1,overcast,4.6
+64,4060,2016,Regular,Grass,61.0,overcast,3.5
+65,4048,2016,Regular,Grass,55.9,overcast,19.6
+66,4049,2016,Regular,Grass,42.1,overcast,5.8
+67,4050,2016,Regular,Turf-Roof,34.0,light rain,13.8
+68,4051,2016,Regular,Grass,30.0,haze,15.0
+69,4052,2016,Regular,Turf,26.1,light snow,6.9
+70,4053,2016,Regular,Grass,75.0,light rain,12.7
+71,4054,2016,Regular,Turf-Dome,28.9,light snow,12.7
+72,4055,2016,Regular,Grass,73.0,mostly cloudy,5.8
+73,4057,2016,Regular,Grass,34.0,overcast,6.9
+74,4047,2016,Regular,Grass,21.0,clear sky,3.5
+75,4046,2016,Regular,Turf,42.1,mostly cloudy,3.5
+76,4045,2016,Regular,Turf,37.0,clear sky,9.2
+77,4041,2016,Regular,Grass,55.0,mostly cloudy,0.0
+78,4042,2016,Regular,Grass,60.1,scattered clouds,0.0
+79,4043,2016,Regular,Grass-Roof,60.8,clear sky,0.0
+80,4044,2016,Regular,Grass,39.9,overcast,8.1
+81,4033,2016,Regular,Grass,77.0,mostly cloudy,9.2
+82,4034,2016,Regular,Turf-Dome,45.0,overcast,9.2
+83,4035,2016,Regular,Grass,32.0,light snow,3.5
+84,4036,2016,Regular,Turf,45.0,overcast,6.9
+85,4037,2016,Regular,Turf-Dome,64.0,overcast,15.0
+86,4038,2016,Regular,Grass,33.1,snow,6.9
+87,4039,2016,Regular,Turf,42.1,clear sky,9.2
+88,4040,2016,Regular,Turf,46.9,partly cloudy,0.0
+89,4032,2016,Regular,Turf-Dome,34.0,overcast,5.8
+90,4030,2016,Regular,Grass,48.0,overcast,4.6
+91,4029,2016,Regular,Turf,37.9,clear sky,4.6
+92,4027,2016,Regular,Grass,73.9,partly cloudy,6.9
+93,4028,2016,Regular,Grass,42.8,mostly cloudy,28.8
+94,4031,2016,Regular,Grass,55.9,mostly cloudy,10.4
+95,4019,2016,Regular,Turf-Roof,73.4,mostly cloudy,24.2
+96,4020,2016,Regular,Grass,43.0,haze,10.4
+97,4021,2016,Regular,Turf,45.0,mostly cloudy,12.7
+98,4022,2016,Regular,Turf,50.0,clear sky,0.0
+99,4023,2016,Regular,Turf-Dome,60.1,clear sky,9.2
+100,4024,2016,Regular,Grass,80.1,mostly cloudy,15.0
+101,4025,2016,Regular,Turf-Dome,64.9,clear sky,9.2
+102,4026,2016,Regular,Grass,48.9,clear sky,11.5
+103,4018,2016,Thanksgiving,Turf-Roof,39.0,overcast,5.8
+104,4017,2016,Thanksgiving,Turf-Roof,66.0,partly cloudy,3.5
+105,4016,2016,Thanksgiving,Turf-Dome,63.0,clear sky,6.0
+106,4015,2016,Regular,Grass,63.0,clear sky,6.0
+107,4014,2016,Regular,Grass,35.6,clear sky,15.0
+108,4011,2016,Regular,Grass,57.9,rain,0.0
+109,4012,2016,Regular,Grass,55.9,overcast,3.5
+110,4013,2016,Regular,Turf,51.1,overcast,10.4
+111,4003,2016,Regular,Turf-Roof,36.0,scattered clouds,15.0
+112,4004,2016,Regular,Turf-Dome,34.0,overcast,9.2
+113,4005,2016,Regular,Grass,52.0,clear sky,11.5
+114,4006,2016,Regular,Turf,41.0,overcast,23.0
+115,4007,2016,Regular,Turf-Dome,30.0,partly cloudy,6.9
+116,4008,2016,Regular,Turf,39.9,mostly cloudy,10.4
+117,4009,2016,Regular,Turf,64.9,partly cloudy,17.3
+118,4010,2016,Regular,Grass,35.6,light snow,25.3
+119,4002,2016,Regular,Grass,55.9,clear sky,3.5
+120,4001,2016,Regular,Turf,54.0,overcast,4.6
+121,4000,2016,Regular,Turf,28.9,clear sky,3.5
+122,3997,2016,Regular,Grass,77.0,partly cloudy,8.1
+123,3998,2016,Regular,Grass-Roof,80.6,partly cloudy,5.8
+124,3999,2016,Regular,Grass,50.0,clear sky,5.8
+125,3989,2016,Regular,Grass,70.0,scattered clouds,8.1
+126,3990,2016,Regular,Grass,51.1,mostly cloudy,0.0
+127,3991,2016,Regular,Turf-Dome,66.9,clear sky,9.2
+128,3992,2016,Regular,Turf,63.0,clear sky,12.7
+129,3993,2016,Regular,Grass,59.0,clear sky,12.7
+130,3994,2016,Regular,Grass,60.8,clear sky,3.5
+131,3995,2016,Regular,Grass,64.9,haze,0.0
+132,3996,2016,Regular,Grass,81.0,partly cloudy,3.5
+133,3988,2016,Regular,Turf,50.0,clear sky,0.0
+134,3987,2016,Regular,Turf,55.0,scattered clouds,5.8
+135,3986,2016,Regular,Grass,62.1,mostly cloudy,4.6
+136,3982,2016,Regular,Grass,66.9,mostly cloudy,8.1
+137,3983,2016,Regular,Grass,64.0,clear sky,0.0
+138,3984,2016,Regular,Grass,54.0,clear sky,3.5
+139,3985,2016,Regular,Grass,66.9,scattered clouds,3.5
+140,3976,2016,Regular,Grass,66.9,clear sky,8.1
+141,3977,2016,Regular,Turf-Dome,69.1,partly cloudy,12.7
+142,3978,2016,Regular,Turf,55.9,mostly cloudy,11.5
+143,3979,2016,Regular,Grass,57.9,haze,10.4
+144,3980,2016,Regular,Grass,82.0,scattered clouds,16.1
+145,3981,2016,Regular,Turf,64.9,partly cloudy,0.0
+146,3975,2016,Regular,Grass,73.9,mostly cloudy,6.9
+147,3974,2016,Regular,Grass,59.0,overcast,11.5
+148,3973,2016,Regular,Turf-Roof,77.0,mostly cloudy,9.2
+149,3964,2016,Regular,Turf-Dome,82.9,clear sky,6.9
+150,3971,2016,Regular,Grass,66.2,mostly cloudy,3.5
+151,3963,2016,Regular,Grass,54.0,overcast,2.0
+152,3965,2016,Regular,Turf-Roof,86.0,clear sky,10.4
+153,3966,2016,Regular,Turf-Dome,82.9,clear sky,8.1
+154,3967,2016,Regular,Turf,46.0,light rain,11.5
+155,3968,2016,Regular,Grass,55.0,overcast,11.5
+156,3969,2016,Regular,Grass,87.1,scattered clouds,9.2
+157,3970,2016,Regular,Turf-Roof,63.0,light rain,11.5
+158,3972,2016,Regular,Grass,82.0,scattered clouds,4.6
+159,3962,2016,Regular,Grass,60.1,clear sky,10.4
+160,3961,2016,Regular,Grass,59.0,mostly cloudy,6.9
+161,3960,2016,Regular,Grass-Roof,0.0,,0.0
+162,3957,2016,Regular,Turf-Dome,73.0,clear sky,4.6
+163,3958,2016,Regular,Grass,64.0,mostly cloudy,21.9
+164,3959,2016,Regular,Grass,63.0,clear sky,10.4
+165,3948,2016,Regular,Grass,55.0,clear sky,12.0
+166,3949,2016,Regular,Grass,64.0,mostly cloudy,18.4
+167,3950,2016,Regular,Grass,75.0,clear sky,4.6
+168,3951,2016,Regular,Turf-Dome,63.0,clear sky,11.5
+169,3952,2016,Regular,Turf,71.1,clear sky,20.7
+170,3953,2016,Regular,Grass,82.0,scattered clouds,17.3
+171,3954,2016,Regular,Grass,73.9,clear sky,10.4
+172,3955,2016,Regular,Grass,77.0,clear sky,8.1
+173,3956,2016,Regular,Turf,60.1,partly cloudy,19.6
+174,3947,2016,Regular,Grass,46.0,overcast,9.2
+175,3946,2016,Regular,Grass-Roof,0.0,,0.0
+176,3945,2016,Regular,Turf-Roof,77.0,clear sky,10.4
+177,3942,2016,Regular,Grass,64.9,mostly cloudy,19.6
+178,3943,2016,Regular,Turf,57.0,light rain,3.5
+179,3944,2016,Regular,Grass,62.1,clear sky,6.9
+180,3933,2016,Regular,Turf,70.0,clear sky,11.5
+181,3934,2016,Regular,Turf,71.1,clear sky,11.5
+182,3935,2016,Regular,Grass,84.0,partly cloudy,12.7
+183,3936,2016,Regular,Turf-Dome,84.9,partly cloudy,6.9
+184,3937,2016,Regular,Grass,72.0,overcast,4.6
+185,3938,2016,Regular,Turf,71.1,mostly cloudy,17.3
+186,3939,2016,Regular,Turf-Dome,66.9,overcast,10.4
+187,3940,2016,Regular,Grass,82.9,mostly cloudy,11.5
+188,3941,2016,Regular,Grass,71.6,clear sky,4.6
+189,3932,2016,Regular,Grass,63.0,scattered clouds,3.5
+190,3930,2016,Regular,Grass,57.9,clear sky,4.6
+191,3929,2016,Regular,Grass,46.0,clear sky,0.0
+192,3926,2016,Regular,Grass,66.0,mostly cloudy,8.1
+193,3927,2016,Regular,Grass,77.0,clear sky,5.8
+194,3928,2016,Regular,Turf,73.9,overcast,6.9
+195,3931,2016,Regular,Grass,69.1,scattered clouds,11.5
+196,3919,2016,Regular,Turf-Dome,57.9,partly cloudy,12.7
+197,3920,2016,Regular,Grass,87.1,mostly cloudy,13.8
+198,3921,2016,Regular,Grass,59.0,scattered clouds,12.7
+199,3922,2016,Regular,Grass,57.0,mostly cloudy,15.0
+200,3923,2016,Regular,Turf,66.9,scattered clouds,12.7
+201,3924,2016,Regular,Turf-Dome,57.9,mostly cloudy,9.2
+202,3925,2016,Regular,Turf-Roof,69.1,partly cloudy,0.0
+203,3918,2016,Regular,Grass,64.0,partly cloudy,0.0
+204,3917,2016,Regular,Turf-Dome,64.0,mostly cloudy,11.5
+205,3916,2016,Regular,Grass,60.1,overcast,4.6
+206,3912,2016,Regular,Grass,86.0,scattered clouds,11.5
+207,3913,2016,Regular,Grass,66.9,scattered clouds,16.1
+208,3914,2016,Regular,Grass,69.1,clear sky,6.9
+209,3915,2016,Regular,Grass-Roof,80.6,scattered clouds,11.5
+210,3904,2016,Regular,Grass,59.0,clear sky,7.0
+211,3905,2016,Regular,Grass,71.8,partly cloudy,3.5
+212,3906,2016,Regular,Turf,57.0,overcast,3.5
+213,3907,2016,Regular,Turf,62.1,overcast,4.6
+214,3908,2016,Regular,Turf-Dome,79.0,partly cloudy,4.6
+215,3909,2016,Regular,Grass,66.0,overcast,9.2
+216,3910,2016,Regular,Turf-Roof,86.0,clear sky,3.5
+217,3911,2016,Regular,Turf,70.0,mostly cloudy,3.5
+218,3903,2016,Regular,Turf,57.0,mostly cloudy,3.5
+219,3902,2016,Regular,Turf-Dome,82.9,clear sky,6.9
+220,3901,2016,Regular,Turf-Roof,75.0,overcast,11.5
+221,3896,2016,Regular,Turf,73.0,clear sky,5.8
+222,3897,2016,Regular,Grass,90.0,scattered clouds,6.9
+223,3898,2016,Regular,Grass,71.1,scattered clouds,6.9
+224,3899,2016,Regular,Grass,66.0,clear sky,5.8
+225,3900,2016,Regular,Turf-Roof,84.0,partly cloudy,11.5
+226,3888,2016,Regular,Turf,82.9,clear sky,0.0
+227,3889,2016,Regular,Grass,93.0,partly cloudy,6.9
+228,3890,2016,Regular,Turf,66.0,scattered clouds,8.1
+229,3891,2016,Regular,Grass,90.0,mostly cloudy,8.1
+230,3892,2016,Regular,Grass,82.9,clear sky,8.1
+231,3893,2016,Regular,Turf,70.0,clear sky,10.4
+232,3894,2016,Regular,Grass,75.0,scattered clouds,16.1
+233,3895,2016,Regular,Grass,89.1,scattered clouds,3.5
+234,3887,2016,Regular,Turf,66.0,clear sky,6.9
+235,3886,2016,Regular,Grass,78.1,scattered clouds,8.1
+236,3885,2016,Regular,Turf-Dome,77.0,mostly cloudy,8.1
+237,3880,2016,Regular,Grass-Roof,102.2,clear sky,4.6
+238,3881,2016,Regular,Grass,75.0,clear sky,0.0
+239,3882,2016,Regular,Grass,84.0,partly cloudy,4.6
+240,3883,2016,Regular,Grass,82.9,clear sky,5.8
+241,3884,2016,Regular,Grass,77.0,clear sky,4.6
+242,3872,2016,Regular,Turf-Dome,78.1,mostly cloudy,10.4
+243,3873,2016,Regular,Turf-Roof,95.0,mostly cloudy,4.6
+244,3874,2016,Regular,Turf,81.0,mostly cloudy,12.7
+245,3875,2016,Regular,Grass,73.9,overcast,9.2
+246,3876,2016,Regular,Grass,73.0,overcast,6.9
+247,3877,2016,Regular,Grass,86.0,scattered clouds,4.6
+248,3878,2016,Regular,Grass,84.0,mostly cloudy,8.1
+249,3879,2016,Regular,Grass,88.0,mostly cloudy,4.6
+250,3871,2016,Regular,Turf,57.0,partly cloudy,6.9
+251,3869,2016,Regular,Grass,64.4,clear sky,0.0
+252,3870,2016,Regular,Grass,0.0,clear sky,0.0
+253,3868,2016,Regular,Grass-Roof,0.0,,0.0
+254,3865,2016,Regular,Turf,68.0,partly cloudy,10.4
+255,3866,2016,Regular,Turf-Roof,87.1,clear sky,3.5
+256,3867,2016,Regular,Turf-Roof,75.9,partly cloudy,3.5
+257,3856,2016,Regular,Turf-Dome,89.1,partly cloudy,3.5
+258,3857,2016,Regular,Grass,81.0,partly cloudy,9.2
+259,3858,2016,Regular,Grass,84.9,mostly cloudy,13.8
+260,3859,2016,Regular,Turf,82.9,clear sky,18.4
+261,3860,2016,Regular,Turf-Dome,89.1,clear sky,11.5
+262,3861,2016,Regular,Grass,78.1,clear sky,13.8
+263,3862,2016,Regular,Turf,82.9,mostly cloudy,10.4
+264,3863,2016,Regular,Turf-Roof,93.2,mostly cloudy,8.1
+265,3864,2016,Regular,Grass,93.9,scattered clouds,15.0
+266,3855,2016,Regular,Grass,66.9,partly cloudy,9.2
+0,4389,2017,SuperBowl,Turf-Dome,,Closed Roof,
+1,4388,2017,Playoff-CONF,Grass,47.0,overcast,5.0
+2,4387,2017,Playoff-CONF,Turf,48.0,clear sky,3.0
+3,4386,2017,Playoff-DIV,Turf-Dome,,Closed Roof,
+4,4385,2017,Playoff-DIV,Grass,18.0,clear sky,2.0
+5,4384,2017,Playoff-DIV,Turf,24.0,clear sky,12.0
+6,4383,2017,Playoff-DIV,Grass,32.0,clear sky,16.0
+7,4382,2017,Playoff-WC,Turf-Dome,,Dome,
+8,4381,2017,Playoff-WC,Grass,53.0,clear sky,18.0
+9,4380,2017,Playoff-WC,Grass,62.0,overcast,3.0
+10,4379,2017,Playoff-WC,Grass,33.0,clear sky,10.0
+11,4363,2017,Regular,Grass,71.0,clear sky,9.0
+12,4364,2017,Regular,Turf-Roof,,Dome,
+13,4366,2017,Regular,Grass,19.0,overcast,12.0
+14,4371,2017,Regular,Grass,23.0,clear sky,5.0
+15,4372,2017,Regular,Grass,71.0,clear sky,3.0
+16,4375,2017,Regular,Turf,40.0,clear sky,7.0
+17,4376,2017,Regular,Grass,17.0,overcast,4.0
+18,4377,2017,Regular,Grass,62.0,haze,2.0
+19,4378,2017,Regular,Grass,67.0,clear sky,3.0
+20,4365,2017,Regular,Turf-Dome,,Closed Roof,
+21,4367,2017,Regular,Grass,11.0,snow,3.0
+22,4368,2017,Regular,Turf,19.0,clear sky,17.0
+23,4369,2017,Regular,Turf-Dome,,Dome,
+24,4370,2017,Regular,Turf-Roof,,Closed Roof,
+25,4373,2017,Regular,Turf,13.0,overcast,14.0
+26,4374,2017,Regular,Turf,16.0,partly cloudy,16.0
+27,4362,2017,Regular,Turf,29.0,partly cloudy,15.0
+28,4361,2017,Regular,Turf-Roof,,Closed Roof,
+29,4358,2017,Regular,Grass,52.0,overcast,0.0
+30,4359,2017,Regular,Grass-Roof,,Closed Roof,
+31,4360,2017,Regular,Turf-Roof,,Closed Roof,
+32,4349,2017,Regular,Turf-Dome,,Dome,
+33,4350,2017,Regular,Turf,35.0,overcast,7.0
+34,4351,2017,Regular,Grass,24.0,light snow,8.0
+35,4352,2017,Regular,Grass,43.0,overcast,7.0
+36,4353,2017,Regular,Turf,35.0,mostly cloudy,2.0
+37,4354,2017,Regular,Turf,40.0,clear sky,6.0
+38,4355,2017,Regular,Grass,39.0,overcast,11.0
+39,4356,2017,Regular,Grass,23.0,overcast,15.0
+40,4357,2017,Regular,Grass,55.0,overcast,6.0
+41,4348,2017,Regular,Turf,10.0,clear sky,6.0
+42,4347,2017,Regular,Grass,63.0,overcast,14.0
+43,4346,2017,Regular,Grass,71.0,clear sky,2.0
+44,4345,2017,Regular,Grass,57.0,clear sky,4.0
+45,4342,2017,Regular,Turf,47.0,overcast,15.0
+46,4343,2017,Regular,Grass,42.0,mostly cloudy,4.0
+47,4344,2017,Regular,Grass,65.0,clear sky,17.0
+48,4334,2017,Regular,Grass,50.0,overcast,1.0
+49,4335,2017,Regular,Grass,36.0,overcast,0.0
+50,4336,2017,Regular,Turf-Dome,,Closed Roof,
+51,4337,2017,Regular,Grass,51.0,partly cloudy,5.0
+52,4338,2017,Regular,Grass,72.0,clear sky,5.0
+53,4339,2017,Regular,Turf,22.0,mostly cloudy,8.0
+54,4340,2017,Regular,Turf-Dome,,Dome,
+55,4341,2017,Regular,Turf,35.0,overcast,0.0
+56,4333,2017,Regular,Grass,53.0,overcast,9.0
+57,4332,2017,Regular,Turf-Dome,,Dome,
+58,4331,2017,Regular,Turf-Roof,,Closed Roof,
+59,4330,2017,Regular,Grass,55.0,clear sky,7.0
+60,4329,2017,Regular,Grass,33.0,overcast,12.0
+61,4324,2017,Regular,Grass,60.0,clear sky,3.0
+62,4325,2017,Regular,Grass-Roof,,Closed Roof,
+63,4326,2017,Regular,Grass,81.0,partly cloudy,4.0
+64,4327,2017,Regular,Turf,39.0,partly cloudy,11.0
+65,4328,2017,Regular,Grass,83.0,overcast,
+66,4316,2017,Regular,Turf,31.0,partly cloudy,11.0
+67,4317,2017,Regular,Grass,55.0,clear sky,9.0
+68,4318,2017,Regular,Grass,29.0,overcast,24.0
+69,4319,2017,Regular,Turf,32.0,snow,15.0
+70,4320,2017,Regular,Grass,41.0,clear sky,5.0
+71,4321,2017,Regular,Grass,46.0,clear sky,13.0
+72,4322,2017,Regular,Turf-Roof,,Closed Roof,
+73,4323,2017,Regular,Grass,54.0,clear sky,5.0
+74,4315,2017,Regular,Turf-Roof,,Dome,
+75,4314,2017,Regular,Turf,61.0,chance rain,9.0
+76,4313,2017,Regular,Turf,44.0,overcast,3.0
+77,4310,2017,Regular,Grass,68.0,clear sky,7.0
+78,4311,2017,Regular,Grass-Roof,,Closed Roof,
+79,4312,2017,Regular,Grass,58.0,clear sky,11.0
+80,4300,2017,Regular,Turf-Dome,,Dome,
+81,4301,2017,Regular,Grass,80.0,overcast,11.0
+82,4302,2017,Regular,Grass,53.0,mostly cloudy,4.0
+83,4303,2017,Regular,Grass,60.0,clear sky,4.0
+84,4304,2017,Regular,Grass,70.0,partly cloudy,7.0
+85,4305,2017,Regular,Turf,48.0,overcast,0.0
+86,4306,2017,Regular,Turf-Roof,,Dome,
+87,4307,2017,Regular,Turf,48.0,mostly cloudy,13.0
+88,4308,2017,Regular,Grass,54.0,clear sky,6.0
+89,4309,2017,Regular,Turf,42.0,overcast,8.0
+90,4299,2017,Regular,Turf-Roof,,Closed Roof,
+91,4298,2017,Regular,Grass,50.0,partly cloudy,1.0
+92,4297,2017,Regular,Grass,38.0,clear sky,7.0
+93,4293,2017,Regular,Grass,72.0,clear sky,1.0
+94,4294,2017,Regular,Grass,66.0,overcast,12.0
+95,4295,2017,Regular,Grass,61.0,overcast,13.0
+96,4296,2017,Regular,Grass-Roof,,Closed Roof,
+97,4286,2017,Regular,Grass,62.0,partly cloudy,9.0
+98,4287,2017,Regular,Turf,47.0,clear sky,18.0
+99,4288,2017,Regular,Turf,49.0,clear sky,17.0
+100,4289,2017,Regular,Turf,46.0,partly cloudy,3.0
+101,4290,2017,Regular,Turf,47.0,partly cloudy,17.0
+102,4291,2017,Regular,Turf-Roof,,Dome,
+103,4292,2017,Regular,Turf-Roof,,Closed Roof,
+104,4285,2017,Thanksgiving,Grass,33.0,clear sky,0.0
+105,4284,2017,Thanksgiving,Turf-Roof,,Closed Roof,
+106,4283,2017,Thanksgiving,Turf-Dome,,Dome,
+107,4280,2017,Regular,Turf,45.0,overcast,6.0
+108,4279,2017,Regular,Turf-Roof,,Closed Roof,
+109,4276,2017,Regular,Grass,76.0,partly cloudy,6.0
+110,4277,2017,Regular,Grass,60.0,mostly cloudy,7.0
+111,4278,2017,Regular,Grass,66.0,clear sky,0.0
+112,4269,2017,Regular,Turf-Roof,,Closed Roof,
+113,4270,2017,Regular,Turf,28.0,clear sky,14.0
+114,4271,2017,Regular,Grass,33.0,partly cloudy,16.0
+115,4272,2017,Regular,Grass,38.0,cold,16.0
+116,4273,2017,Regular,Turf,50.0,mostly cloudy,23.0
+117,4274,2017,Regular,Turf-Dome,,Closed Roof,
+118,4275,2017,Regular,Turf-Dome,,Dome,
+119,4282,2017,Regular,Grass,81.0,clear sky,9.0
+120,4268,2017,Regular,Grass,40.0,overcast,14.0
+121,4267,2017,Regular,Grass,49.0,clear sky,6.0
+122,4266,2017,Regular,Grass,48.0,partly cloudy,5.0
+123,4263,2017,Regular,Grass,68.0,overcast,
+124,4264,2017,Regular,Turf-Roof,,Dome,
+125,4265,2017,Regular,Grass,68.0,clear sky,5.0
+126,4255,2017,Regular,Grass,53.0,overcast,4.0
+127,4256,2017,Regular,Turf-Dome,,Dome,
+128,4257,2017,Regular,Grass,39.0,overcast,6.0
+129,4258,2017,Regular,Grass,76.0,partly cloudy,5.0
+130,4259,2017,Regular,Grass,44.0,overcast,4.0
+131,4260,2017,Regular,Turf,42.0,overcast,2.0
+132,4261,2017,Regular,Grass,79.0,overcast,16.0
+133,4262,2017,Regular,Turf-Roof,,Closed Roof,
+134,4254,2017,Regular,Grass-Roof,,Closed Roof,
+135,4253,2017,Regular,Turf,35.0,overcast,3.0
+136,4252,2017,Regular,Grass,77.0,clear sky,2.0
+137,4249,2017,Regular,Grass,61.0,clear sky,8.0
+138,4250,2017,Regular,Turf,36.0,rain,11.0
+139,4251,2017,Regular,Turf-Roof,,Closed Roof,
+140,4242,2017,Regular,Grass,61.0,overcast,4.0
+141,4243,2017,Regular,Grass,75.0,overcast,10.0
+142,4244,2017,Regular,Grass,78.0,clear sky,12.0
+143,4245,2017,Regular,Turf,61.0,overcast,5.0
+144,4246,2017,Regular,Turf-Roof,,Closed Roof,
+145,4247,2017,Regular,Turf,56.0,overcast,6.0
+146,4248,2017,Regular,Turf-Dome,,Dome,
+147,4241,2017,Regular,Turf,68.0,clear sky,11.0
+148,4240,2017,Regular,Grass,46.0,clear sky,12.0
+149,4239,2017,Regular,Turf-Dome,,Dome,
+150,4237,2017,Regular,Turf,50.0,overcast,2.0
+151,4238,2017,Regular,Grass,60.0,rain,4.0
+152,4229,2017,Regular,Turf-Dome,56.0,partly cloudy,11.0
+153,4230,2017,Regular,Turf,63.0,rain,5.0
+154,4231,2017,Regular,Grass,63.0,overcast,13.0
+155,4232,2017,Regular,Turf-Dome,,Dome,
+156,4233,2017,Regular,Turf,39.0,overcast,9.0
+157,4234,2017,Regular,Turf,62.0,rain,8.0
+158,4235,2017,Regular,Turf,42.0,rain,7.0
+159,4236,2017,Regular,Turf,67.0,rain,12.0
+160,4228,2017,Regular,Grass,56.0,partly cloudy,9.0
+161,4227,2017,Regular,Turf,70.0,overcast,9.0
+162,4226,2017,Regular,Turf,56.0,overcast,2.0
+163,4223,2017,Regular,Grass,68.0,clear sky,10.0
+164,4224,2017,Regular,Grass,90.0,clear sky,4.0
+165,4225,2017,Regular,Turf,75.0,partly cloudy,7.0
+166,4214,2017,Regular,Grass,54.0,rain,10.0
+167,4215,2017,Regular,Turf-Dome,,Closed Roof,
+168,4216,2017,Regular,Grass,70.0,overcast,15.0
+169,4217,2017,Regular,Grass,79.0,clear sky,6.0
+170,4218,2017,Regular,Turf-Roof,,Closed Roof,
+171,4219,2017,Regular,Turf,52.0,rain,10.0
+172,4220,2017,Regular,Grass,86.0,partly cloudy,18.0
+173,4221,2017,Regular,Turf,74.0,clear sky,9.0
+174,4222,2017,Regular,Grass,74.0,clear sky,12.0
+175,4213,2017,Regular,Grass,62.0,overcast,1.0
+176,4212,2017,Regular,Grass,57.0,clear sky,7.0
+177,4211,2017,Regular,Grass,61.0,clear sky,4.0
+178,4207,2017,Regular,Grass,88.0,chance rain,10.0
+179,4208,2017,Regular,Grass-Roof,,Closed Roof,
+180,4209,2017,Regular,Grass,76.0,clear sky,9.0
+181,4210,2017,Regular,Grass,60.0,clear sky,14.0
+182,4200,2017,Regular,Grass,69.0,mostly cloudy,7.0
+183,4201,2017,Regular,Turf-Roof,,Closed Roof,
+184,4202,2017,Regular,Turf-Dome,,Dome,
+185,4203,2017,Regular,Turf-Dome,,Closed Roof,
+186,4204,2017,Regular,Turf-Roof,,Dome,
+187,4205,2017,Regular,Turf,73.0,overcast,13.0
+188,4206,2017,Regular,Grass,68.0,overcast,4.0
+189,4199,2017,Regular,Grass,72.0,overcast,6.0
+190,4198,2017,Regular,Grass,70.0,partly cloudy,10.0
+191,4197,2017,Regular,Turf-Roof,,Closed Roof,
+192,4196,2017,Regular,Turf-Roof,,Closed Roof,
+193,4194,2017,Regular,Grass,72.0,clear sky,8.0
+194,4195,2017,Regular,Grass,78.0,clear sky,0.0
+195,4186,2017,Regular,Turf,77.0,shower rain,10.0
+196,4187,2017,Regular,Turf,63.0,light rain,10.0
+197,4188,2017,Regular,Turf-Dome,,Dome,
+198,4189,2017,Regular,Grass,73.0,overcast,9.0
+199,4190,2017,Regular,Turf,76.0,overcast,7.0
+200,4191,2017,Regular,Grass,67.0,overcast,8.0
+201,4192,2017,Regular,Turf-Roof,,Closed Roof,
+202,4193,2017,Regular,Grass,89.0,partly cloudy,9.0
+203,4185,2017,Regular,Grass,76.0,clear sky,9.0
+204,4184,2017,Regular,Grass,82.0,clear sky,14.0
+205,4183,2017,Regular,Turf,61.0,clear sky,8.0
+206,4179,2017,Regular,Grass,91.0,overcast,8.0
+207,4180,2017,Regular,Grass,72.0,clear sky,6.0
+208,4181,2017,Regular,Grass-Roof,,Closed Roof,
+209,4182,2017,Regular,Grass,72.0,mostly cloudy,7.0
+210,4171,2017,Regular,Turf-Roof,,Dome,
+211,4172,2017,Regular,Turf,61.0,clear sky,6.0
+212,4173,2017,Regular,Grass,63.0,clear sky,6.0
+213,4174,2017,Regular,Turf-Dome,,Closed Roof,
+214,4175,2017,Regular,Turf,64.0,clear sky,5.0
+215,4176,2017,Regular,Turf-Roof,,Closed Roof,
+216,4177,2017,Regular,Grass,64.0,clear sky,6.0
+217,4178,2017,Regular,Turf-Roof,,Closed Roof,
+218,4170,2017,Regular,Grass,63.0,clear sky,13.0
+219,4169,2017,Regular,Turf,65.0,overcast,5.0
+220,4168,2017,Regular,Grass-Roof,,Closed Roof,0.0
+221,4167,2017,Regular,Grass,76.0,clear sky,0.0
+222,4164,2017,Regular,Grass,88.0,clear sky,0.0
+223,4165,2017,Regular,Turf,89.0,clear sky,0.0
+224,4166,2017,Regular,Grass,84.0,clear sky,0.0
+225,4155,2017,Regular,Turf-Dome,,Dome,0.0
+226,4156,2017,Regular,Turf-Roof,,Closed Roof,0.0
+227,4157,2017,Regular,Turf,83.0,clear sky,0.0
+228,4158,2017,Regular,Turf,84.0,clear sky,0.0
+229,4159,2017,Regular,Turf,88.0,clear sky,0.0
+230,4160,2017,Regular,Grass,82.0,clear sky,0.0
+231,4161,2017,Regular,Turf,89.0,clear sky,0.0
+232,4162,2017,Regular,Grass,85.0,clear sky,0.0
+233,4163,2017,Regular,Turf-Dome,,Closed Roof,0.0
+234,4154,2017,Regular,Grass,70.0,clear sky,0.0
+235,4153,2017,Regular,Grass,68.0,partly cloudy,0.0
+236,4152,2017,Regular,Turf,72.0,overcast,0.0
+237,4151,2017,Regular,Turf-Roof,78.0,clear sky,4.0
+238,4146,2017,Regular,Grass,71.0,overcast,0.0
+239,4147,2017,Regular,Grass,70.0,clear sky,0.0
+240,4148,2017,Regular,Grass,72.0,partly cloudy,0.0
+241,4149,2017,Regular,Turf,65.0,mostly cloudy,0.0
+242,4150,2017,Regular,Grass,76.0,overcast,0.0
+243,4138,2017,Regular,Turf-Roof,,Closed Roof,0.0
+244,4139,2017,Regular,Grass,83.0,clear sky,0.0
+245,4140,2017,Regular,Grass,88.0,clear sky,0.0
+246,4141,2017,Regular,Grass,80.0,mostly cloudy,0.0
+247,4142,2017,Regular,Grass,78.0,clear sky,0.0
+248,4143,2017,Regular,Turf-Dome,,Dome,0.0
+249,4144,2017,Regular,Grass,68.0,overcast,0.0
+250,4145,2017,Regular,Grass,84.0,partly cloudy,0.0
+251,4129,2017,Regular,Turf,69.0,mostly cloudy,0.0
+252,4137,2017,Regular,Grass,73.0,mostly cloudy,0.0
+253,4136,2017,Regular,Turf-Dome,,Closed Roof,0.0
+254,4135,2017,Regular,Turf-Roof,,Closed Roof,0.0
+255,4133,2017,Regular,Turf,71.0,partly cloudy,0.0
+256,4134,2017,Regular,Grass,87.0,clear sky,0.0
+257,4132,2017,Regular,Grass,90.0,clear sky,0.0
+258,4123,2017,Regular,Turf,65.0,partly cloudy,0.0
+259,4124,2017,Regular,Grass,64.0,clear sky,0.0
+260,4125,2017,Regular,Turf,68.0,clear sky,0.0
+261,4126,2017,Regular,Grass,63.0,clear sky,0.0
+262,4127,2017,Regular,Turf-Dome,,Dome,0.0
+263,4128,2017,Regular,Turf-Roof,,Closed Roof,0.0
+264,4130,2017,Regular,Grass,72.0,clear sky,0.0
+265,4131,2017,Regular,Grass,67.0,clear sky,0.0
+266,4122,2017,Regular,Turf,63.0,clear sky,0.0
+0,4656,2018,SuperBowl,Turf-Dome,,Dome,
+1,4654,2018,Playoff-CONF,Grass,19.0,overcast,14.0
+2,4655,2018,Playoff-CONF,Turf-Dome,,Dome,
+3,4653,2018,Playoff-DIV,Turf-Dome,,Dome,
+4,4651,2018,Playoff-DIV,Turf,26.0,clear sky,3.0
+5,4652,2018,Playoff-DIV,Grass,57.0,overcast,1.0
+6,4650,2018,Playoff-DIV,Grass,32.0,clear sky,13.0
+7,4649,2018,Playoff-WC,Grass,38.0,mostly cloudy,10.29
+8,4648,2018,Playoff-WC,Turf,52.0,clear sky,12.0
+9,4647,2018,Playoff-WC,Turf-Roof,56.0,Closed Roof,6.93
+10,4646,2018,Playoff-WC,Turf-Roof,,Closed Roof,
+11,4640,2018,Regular,Grass,49.0,clear sky,5.39
+12,4643,2018,Regular,Grass,51.0,mostly cloudy,11.41
+13,4644,2018,Regular,Turf,46.0,overcast,4.7
+14,4645,2018,Regular,Grass,62.0,clear sky,3.36
+15,4630,2018,Regular,Turf,32.0,overcast,4.7
+16,4631,2018,Regular,Grass,26.0,overcast,6.93
+17,4632,2018,Regular,Turf-Roof,47.0,Closed Roof,6.93
+18,4633,2018,Regular,Grass,37.0,clear sky,12.75
+19,4634,2018,Regular,Turf-Dome,28.0,Closed Roof,9.17
+20,4635,2018,Regular,Turf,34.0,clear sky,3.36
+21,4636,2018,Regular,Turf-Dome,65.0,Dome,3.36
+22,4637,2018,Regular,Turf,37.0,overcast,2.57
+23,4638,2018,Regular,Grass,37.0,partly cloudy,9.17
+24,4639,2018,Regular,Grass,79.0,overcast,5.82
+25,4641,2018,Regular,Grass,46.0,clear sky,3.62
+26,4642,2018,Regular,Grass,45.0,partly cloudy,3.62
+27,4629,2018,Regular,Grass,56.0,rain,10.29
+28,4628,2018,Regular,Turf,45.0,overcast,6.93
+29,4627,2018,Regular,Turf-Dome,71.0,Dome,6.93
+30,4624,2018,Regular,Grass,58.0,partly cloudy,3.36
+31,4625,2018,Regular,Grass-Roof,69.0,Closed Roof,4.5
+32,4614,2018,Regular,Turf-Roof,34.0,Closed Roof,6.93
+33,4615,2018,Regular,Grass,43.0,clear sky,5.82
+34,4616,2018,Regular,Turf,43.0,clear sky,8.05
+35,4617,2018,Regular,Turf,40.0,clear sky,12.75
+36,4618,2018,Regular,Turf-Dome,37.0,Dome,8.05
+37,4619,2018,Regular,Turf-Roof,52.0,Closed Roof,11.41
+38,4620,2018,Regular,Grass,73.0,clear sky,8.05
+39,4622,2018,Regular,Grass,53.0,clear sky,5.82
+40,4623,2018,Regular,Grass,38.0,overcast,10.29
+41,4626,2018,Regular,Grass,60.0,partly cloudy,5.0
+42,4621,2018,Regular,Grass,51.0,clear sky,9.0
+43,4613,2018,Regular,Grass,43.0,clear sky,3.36
+44,4612,2018,Regular,Grass,59.0,overcast,9.17
+45,4611,2018,Regular,Grass,42.0,overcast,5.0
+46,4610,2018,Regular,Grass,61.0,overcast,11.0
+47,4601,2018,Regular,Turf,39.0,rain,7.0
+48,4602,2018,Regular,Grass,45.0,partly cloudy,10.0
+49,4603,2018,Regular,Turf,43.0,overcast,2.0
+50,4604,2018,Regular,Grass,43.0,rain,15.0
+51,4605,2018,Regular,Turf-Roof,,,
+52,4606,2018,Regular,Turf-Roof,,Closed Roof,
+53,4607,2018,Regular,Turf,40.0,rain,6.0
+54,4608,2018,Regular,Turf-Dome,,Closed Roof,
+55,4609,2018,Regular,Grass,64.0,partly cloudy,12.0
+56,4600,2018,Regular,Grass,46.0,partly cloudy,0.0
+57,4599,2018,Regular,Turf,51.0,overcast,8.0
+58,4598,2018,Regular,Grass,39.0,clear sky,5.0
+59,4597,2018,Regular,Turf,48.0,overcast,9.0
+60,4596,2018,Regular,Grass,51.0,overcast,4.7
+61,4594,2018,Regular,Grass-Roof,68.0,Closed Roof,4.18
+62,4595,2018,Regular,Turf-Roof,50.0,Closed Roof,8.05
+63,4592,2018,Regular,Grass,54.0,overcast,10.29
+64,4593,2018,Regular,Grass,68.0,clear sky,5.82
+65,4583,2018,Regular,Turf,31.0,partly cloudy,13.87
+66,4584,2018,Regular,Grass,33.0,overcast,4.7
+67,4585,2018,Regular,Grass,33.0,overcast,3.36
+68,4586,2018,Regular,Grass,71.0,overcast,4.7
+69,4587,2018,Regular,Grass,82.0,mostly cloudy,16.11
+70,4588,2018,Regular,Grass,35.0,clear sky,4.41
+71,4589,2018,Regular,Turf-Roof,48.0,Closed Roof,8.05
+72,4590,2018,Regular,Grass,35.0,clear sky,3.36
+73,4591,2018,Regular,Grass,28.0,overcast,8.05
+74,4582,2018,Regular,Grass,44.0,clear sky,5.0
+75,4581,2018,Regular,Grass,36.0,overcast,15.0
+76,4580,2018,Regular,Turf,45.0,overcast,2.0
+77,4579,2018,Regular,Turf,53.0,overcast,6.0
+78,4577,2018,Regular,Grass,70.0,clear sky,13.0
+79,4578,2018,Regular,Grass,57.0,clear sky,6.0
+80,4567,2018,Regular,Turf-Roof,67.0,cloudy,9.0
+81,4568,2018,Regular,Turf,63.0,clear sky,12.0
+82,4569,2018,Regular,Grass,81.0,overcast,15.0
+83,4570,2018,Regular,Grass,57.0,clear sky,8.0
+84,4571,2018,Regular,Turf,52.0,overcast,3.0
+85,4572,2018,Regular,Grass,86.0,partly cloudy,15.0
+86,4573,2018,Regular,Turf-Dome,,Dome,
+87,4574,2018,Regular,Grass,34.0,snow,20.0
+88,4575,2018,Regular,Turf-Roof,,Closed Roof,
+89,4576,2018,Regular,Grass,78.0,overcast,13.0
+90,4566,2018,Regular,Turf-Roof,,Closed Roof,
+91,4565,2018,Regular,Turf-Roof,43.0,Closed Roof,9.17
+92,4564,2018,Regular,Turf-Dome,,Closed Roof,
+93,4563,2018,Regular,Grass,40.0,partly cloudy,6.73
+94,4555,2018,Regular,Turf,55.0,partly cloudy,5.82
+95,4556,2018,Regular,Turf-Roof,56.0,Closed Roof,10.29
+96,4562,2018,Regular,Grass,74.0,partly cloudy,3.36
+97,4554,2018,Regular,Grass,55.0,partly cloudy,3.36
+98,4557,2018,Regular,Turf,54.0,overcast,6.93
+99,4558,2018,Regular,Grass,58.0,partly cloudy,5.39
+100,4559,2018,Regular,Turf,42.0,overcast,4.7
+101,4560,2018,Regular,Grass,77.0,overcast,3.36
+102,4561,2018,Regular,Grass,60.0,partly cloudy,4.7
+103,4553,2018,Thanksgiving,Turf-Dome,49.0,Dome,3.36
+104,4552,2018,Thanksgiving,Turf-Roof,60.0,Closed Roof,4.7
+105,4551,2018,Thanksgiving,Turf-Dome,25.0,Dome,9.17
+106,4550,2018,Regular,Grass,65.0,overcast,0.0
+107,4539,2018,Regular,Grass,34.0,partly cloudy,7.52
+108,4549,2018,Regular,Grass,73.0,partly cloudy,8.0
+109,4543,2018,Regular,Turf-Dome,66.0,Dome,3.27
+110,4547,2018,Regular,Grass-Roof,67.0,Closed Roof,3.94
+111,4548,2018,Regular,Grass,71.0,clear sky,1.25
+112,4540,2018,Regular,Grass,50.0,overcast,6.62
+113,4541,2018,Regular,Turf-Roof,59.0,clear sky,3.71
+114,4542,2018,Regular,Turf-Dome,36.0,Dome,2.37
+115,4544,2018,Regular,Grass,50.0,overcast,6.62
+116,4545,2018,Regular,Turf,40.0,overcast,3.04
+117,4546,2018,Regular,Turf-Roof,42.0,Closed Roof,7.07
+118,4538,2018,Regular,Turf,52.0,partly cloudy,8.05
+119,4537,2018,Regular,Grass,57.0,haze,1.7
+120,4536,2018,Regular,Grass,33.0,clear sky,2.59
+121,4535,2018,Regular,Grass,75.0,clear sky,1.0
+122,4534,2018,Regular,Grass,69.0,haze,16.0
+123,4525,2018,Regular,Grass,39.0,clear sky,10.29
+124,4526,2018,Regular,Turf,41.0,partly cloudy,5.82
+125,4527,2018,Regular,Grass,38.0,mostly cloudy,11.41
+126,4528,2018,Regular,Grass,32.0,overcast,8.05
+127,4529,2018,Regular,Grass,51.0,clear sky,3.36
+128,4530,2018,Regular,Grass,82.0,clear sky,4.7
+129,4531,2018,Regular,Turf,46.0,clear sky,8.08
+130,4532,2018,Regular,Grass,46.0,clear sky,3.36
+131,4533,2018,Regular,Turf-Roof,40.0,Closed Roof,5.82
+132,4524,2018,Regular,Grass,36.0,clear sky,5.82
+133,4523,2018,Regular,Turf-Roof,,Closed Roof,
+134,4522,2018,Regular,Turf,41.0,clear sky,4.7
+135,4521,2018,Regular,Turf-Dome,76.0,Dome,4.7
+136,4519,2018,Regular,Grass,50.0,overcast,6.93
+137,4520,2018,Regular,Turf,59.0,clear sky,11.41
+138,4512,2018,Regular,Grass,56.0,clear sky,5.82
+139,4513,2018,Regular,Turf,48.0,partly cloudy,11.41
+140,4514,2018,Regular,Grass,61.0,clear sky,6.93
+141,4515,2018,Regular,Grass,54.0,clear sky,11.41
+142,4516,2018,Regular,Grass,86.0,mostly cloudy,12.75
+143,4517,2018,Regular,Turf-Dome,37.0,Closed Roof,12.75
+144,4518,2018,Regular,Grass,56.0,clear sky,5.82
+145,4511,2018,Regular,Grass,79.0,clear sky,8.05
+146,4510,2018,Regular,Turf,46.0,overcast,16.0
+147,4509,2018,Regular,Turf-Dome,,Closed Roof,
+148,4507,2018,Regular,Grass-Roof,84.0,Closed Roof,3.27
+149,4508,2018,Regular,Grass,78.0,overcast,6.93
+150,4506,2018,Regular,Grass,72.0,clear sky,6.93
+151,4499,2018,Regular,Grass,61.0,clear sky,11.41
+152,4500,2018,Regular,Grass,47.0,overcast,12.75
+153,4501,2018,Regular,Turf,51.0,overcast,9.42
+154,4502,2018,Regular,Turf-Dome,44.0,Dome,11.41
+155,4503,2018,Regular,Turf,55.0,overcast,13.87
+156,4504,2018,Regular,Grass,48.0,overcast,18.34
+157,4505,2018,Regular,Grass,62.0,clear sky,10.29
+158,4498,2018,Regular,Grass,48.0,partly cloudy,12.0
+159,4497,2018,Regular,Turf-Roof,63.0,Closed Roof,6.93
+160,4496,2018,Regular,Turf-Roof,60.0,clear sky,3.38
+161,4491,2018,Regular,Grass,56.0,clear sky,13.87
+162,4494,2018,Regular,Grass,51.0,clear sky,14.99
+163,4495,2018,Regular,Grass,64.0,clear sky,8.05
+164,4493,2018,Regular,Grass,52.0,mostly cloudy,14.99
+165,4485,2018,Regular,Grass,72.0,partly cloudy,18.34
+166,4486,2018,Regular,Grass,82.0,clear sky,4.7
+167,4487,2018,Regular,Grass,48.0,mostly cloudy,14.99
+168,4488,2018,Regular,Turf,47.0,overcast,19.46
+169,4489,2018,Regular,Grass,46.0,clear sky,8.05
+170,4490,2018,Regular,Turf-Roof,46.0,Closed Roof,6.93
+171,4492,2018,Regular,Grass,89.0,partly cloudy,8.05
+172,4484,2018,Regular,Grass,66.0,clear sky,6.0
+173,4483,2018,Regular,Grass-Roof,71.0,Closed Roof,3.36
+174,4482,2018,Regular,Grass,35.0,clear sky,4.7
+175,4481,2018,Regular,Turf,45.0,overcast,3.38
+176,4479,2018,Regular,Turf-Roof,78.0,Closed Roof,6.93
+177,4480,2018,Regular,Grass,68.0,rain,8.55
+178,4478,2018,Regular,Grass,23.0,mostly cloudy,10.29
+179,4469,2018,Regular,Grass,53.0,clear sky,3.36
+180,4470,2018,Regular,Turf-Roof,87.0,Closed Roof,5.82
+181,4471,2018,Regular,Turf,53.0,mostly cloudy,3.36
+182,4472,2018,Regular,Turf-Roof,67.0,clear sky,4.7
+183,4473,2018,Regular,Grass,88.0,partly cloudy,6.93
+184,4474,2018,Regular,Grass,54.0,overcast,3.6
+185,4475,2018,Regular,Grass,52.0,overcast,10.0
+186,4476,2018,Regular,Turf-Dome,33.0,Closed Roof,8.05
+187,4477,2018,Regular,Turf,57.0,overcast,5.5
+188,4468,2018,Regular,Turf,70.0,light rain,3.0
+189,4467,2018,Regular,Turf-Dome,76.0,Dome,20.8
+190,4466,2018,Regular,Turf-Roof,,Closed Roof,
+191,4463,2018,Regular,Grass,78.0,clear sky,10.29
+192,4464,2018,Regular,Grass,79.0,partly cloudy,5.82
+193,4465,2018,Regular,Turf,53.0,rain,5.82
+194,4462,2018,Regular,Grass,75.0,clear sky,10.29
+195,4454,2018,Regular,Turf,84.0,clear sky,3.49
+196,4455,2018,Regular,Grass,71.0,overcast,11.41
+197,4456,2018,Regular,Grass,79.0,overcast,4.7
+198,4457,2018,Regular,Turf,61.0,overcast,12.75
+199,4458,2018,Regular,Turf-Dome,59.0,Dome,12.75
+200,4459,2018,Regular,Grass,81.0,clear sky,6.93
+201,4460,2018,Regular,Turf,76.0,overcast,3.36
+202,4461,2018,Regular,Grass,58.0,overcast,4.7
+203,4453,2018,Regular,Turf,68.0,mostly cloudy,4.7
+204,4452,2018,Regular,Grass,64.0,overcast,1.21
+205,4451,2018,Regular,Grass,67.0,clear sky,5.82
+206,4449,2018,Regular,Turf,69.0,partly cloudy,3.36
+207,4450,2018,Regular,Grass,82.0,clear sky,11.41
+208,4447,2018,Regular,Grass-Roof,93.0,Closed Roof,11.41
+209,4448,2018,Regular,Grass,73.0,partly cloudy,2.73
+210,4439,2018,Regular,Turf-Roof,79.0,Closed Roof,10.29
+211,4440,2018,Regular,Grass,48.0,overcast,5.82
+212,4441,2018,Regular,Turf-Roof,75.0,Closed Roof,10.29
+213,4442,2018,Regular,Grass,65.0,overcast,10.29
+214,4443,2018,Regular,Turf-Roof,78.0,,10.29
+215,4444,2018,Regular,Grass,88.0,partly cloudy,16.11
+216,4445,2018,Regular,Grass,81.0,clear sky,5.82
+217,4446,2018,Regular,Turf,67.0,clear sky,4.7
+218,4438,2018,Regular,Grass,75.0,clear sky,3.0
+219,4437,2018,Regular,Grass,79.0,overcast,4.7
+220,4436,2018,Regular,Turf-Dome,61.0,Dome,4.7
+221,4434,2018,Regular,Grass-Roof,99.0,Closed Roof,11.41
+222,4435,2018,Regular,Turf,60.0,clear sky,5.82
+223,4433,2018,Regular,Grass,79.0,clear sky,5.82
+224,4423,2018,Regular,Grass,81.0,overcast,5.82
+225,4424,2018,Regular,Turf-Roof,83.0,Closed Roof,4.7
+226,4425,2018,Regular,Grass,90.0,clear sky,9.17
+227,4426,2018,Regular,Grass,63.0,light rain,5.82
+228,4427,2018,Regular,Turf-Roof,87.0,clear sky,5.17
+229,4428,2018,Regular,Grass,77.0,clear sky,9.17
+230,4429,2018,Regular,Grass,63.0,rain,10.29
+231,4430,2018,Regular,Grass,61.0,rain,1.7
+232,4431,2018,Regular,Grass,89.0,partly cloudy,9.17
+233,4432,2018,Regular,Turf-Dome,73.0,Closed Roof,8.05
+234,4422,2018,Regular,Grass,83.0,partly cloudy,11.0
+235,4421,2018,Regular,Grass,79.0,clear sky,2.0
+236,4420,2018,Regular,Turf-Roof,84.0,Closed Roof,2.0
+237,4416,2018,Regular,Grass,86.0,clear sky,2.0
+238,4417,2018,Regular,Grass,73.0,clear sky,12.0
+239,4418,2018,Regular,Grass,97.0,overcast,15.0
+240,4419,2018,Regular,Grass,92.0,clear sky,4.0
+241,4407,2018,Regular,Grass,71.0,overcast,5.0
+242,4408,2018,Regular,Turf-Roof,,Dome,
+243,4409,2018,Regular,Grass,80.0,partly cloudy,5.0
+244,4410,2018,Regular,Turf,83.0,partly cloudy,6.0
+245,4411,2018,Regular,Grass,81.0,overcast,12.0
+246,4412,2018,Regular,Grass,80.0,partly cloudy,10.0
+247,4413,2018,Regular,Turf,80.0,clear sky,4.0
+248,4414,2018,Regular,Grass,91.0,overcast,9.0
+249,4415,2018,Regular,Turf-Dome,,Dome,
+250,4406,2018,Regular,Turf,82.0,clear sky,3.0
+251,4405,2018,Regular,Grass,69.0,clear sky,10.0
+252,4404,2018,Regular,Turf-Dome,,Dome,
+253,4403,2018,Regular,Grass,62.0,clear sky,10.0
+254,4400,2018,Regular,Grass,84.0,clear sky,5.0
+255,4401,2018,Regular,Grass,81.0,partly cloudy,9.0
+256,4402,2018,Regular,Grass-Roof,,Closed Roof,
+257,4399,2018,Regular,Grass,84.0,clear sky,8.0
+258,4391,2018,Regular,Grass,58.0,rain,11.0
+259,4392,2018,Regular,Turf-Dome,,Closed Roof,
+260,4393,2018,Regular,Turf-Roof,59.0,Closed Roof,11.0
+261,4394,2018,Regular,Turf,61.0,rain,12.0
+262,4395,2018,Regular,Turf,59.0,rain,7.0
+263,4396,2018,Regular,Turf-Dome,,Dome,
+264,4397,2018,Regular,Turf,62.0,overcast,10.0
+265,4398,2018,Regular,Grass,89.0,rain,7.0
+266,4390,2018,Regular,Grass,81.0,overcast,8.0
+0,4924,2019,SuperBowl,Grass,64.0,clear sky,7.0
+1,4923,2019,Playoff-CONF,Grass,54.0,overcast clouds,3.65
+2,4922,2019,Playoff-CONF,Grass,17.0,clear sky,10.0
+3,4921,2019,Playoff-DIV,Grass,23.0,broken clouds,3.36
+4,4919,2019,Playoff-DIV,Grass,29.0,cloudy,12.0
+5,4918,2019,Playoff-DIV,Turf,66.0,heavy intensity rain,14.99
+6,4920,2019,Playoff-DIV,Grass,56.0,scattered clouds,12.75
+7,4917,2019,Playoff-WC,Grass,35.0,overcast clouds,6.93
+8,4916,2019,Playoff-WC,Turf-Dome,,,
+9,4915,2019,Playoff-WC,Turf,39.0,mist,6.93
+10,4914,2019,Playoff-WC,Turf-Roof,,,
+11,4913,2019,Regular,Turf,49.0,few clouds,4.7
+12,4901,2019,Regular,Turf-Roof,47.0,overcast clouds,11.41
+13,4903,2019,Regular,Turf-Roof,61.0,light rain,8.05
+14,4904,2019,Regular,Grass,72.0,moderate rain,4.7
+15,4908,2019,Regular,Turf,42.0,overcast clouds,8.05
+16,4909,2019,Regular,Grass,48.0,moderate rain,8.03
+17,4911,2019,Regular,Grass,30.0,light rain,3.36
+18,4912,2019,Regular,Grass,58.0,clear sky,4.56
+19,4898,2019,Regular,Turf,38.0,moderate rain,9.17
+20,4899,2019,Regular,Grass,67.0,light rain,13.87
+21,4900,2019,Regular,Turf,60.0,light rain,4.7
+22,4902,2019,Regular,Turf-Dome,45.0,light rain,4.7
+23,4905,2019,Regular,Grass,38.0,overcast clouds,12.75
+24,4906,2019,Regular,Turf-Dome,39.0,light rain,5.82
+25,4907,2019,Regular,Turf,42.0,clear sky,3.36
+26,4910,2019,Regular,Grass,80.0,scattered clouds,9.17
+27,4897,2019,Regular,Turf-Dome,,,
+28,4896,2019,Regular,Grass,40.0,few clouds,10.29
+29,4894,2019,Regular,Grass,44.0,clear sky,3.29
+30,4895,2019,Regular,Turf,42.0,overcast clouds,5.82
+31,4882,2019,Regular,Turf-Roof,42.0,moderate rain,14.99
+32,4883,2019,Regular,Grass,48.0,few clouds,10.29
+33,4884,2019,Regular,Turf-Roof,46.0,clear sky,4.7
+34,4885,2019,Regular,Grass,53.0,clear sky,8.32
+35,4886,2019,Regular,Grass,75.0,light rain,12.75
+36,4888,2019,Regular,Turf,44.0,moderate rain,6.93
+37,4889,2019,Regular,Grass,49.0,light rain,4.88
+38,4890,2019,Regular,Grass,61.0,clear sky,5.82
+39,4893,2019,Regular,Grass,47.0,clear sky,3.36
+40,4891,2019,Regular,Grass,54.0,overcast clouds,11.41
+41,4887,2019,Regular,Turf,30.0,overcast clouds,2.66
+42,4892,2019,Regular,Grass,73.0,overcast clouds,16.11
+43,4881,2019,Regular,Turf-Dome,72.0,overcast clouds,8.05
+44,4874,2019,Regular,Grass,31.0,overcast clouds,16.11
+45,4878,2019,Regular,Turf-Roof,70.0,few clouds,10.29
+46,4879,2019,Regular,Grass,55.0,scattered clouds,4.7
+47,4876,2019,Regular,Grass-Roof,63.0,few clouds,17.22
+48,4877,2019,Regular,Grass,55.0,clear sky,3.36
+49,4880,2019,Regular,Grass,51.0,clear sky,3.36
+50,4867,2019,Regular,Grass,57.0,clear sky,9.17
+51,4868,2019,Regular,Turf,35.0,clear sky,8.05
+52,4869,2019,Regular,Turf-Dome,31.0,light snow,12.75
+53,4870,2019,Regular,Grass,14.0,clear sky,6.93
+54,4871,2019,Regular,Grass,25.0,light rain,9.17
+55,4872,2019,Regular,Turf,46.0,broken clouds,23.04
+56,4873,2019,Regular,Grass,47.0,broken clouds,4.7
+57,4875,2019,Regular,Grass,52.0,light rain,9.17
+58,4866,2019,Regular,Grass,33.0,partly cloudy,3.0
+59,4865,2019,Regular,Grass,52.0,light rain,11.41
+60,4864,2019,Regular,Grass,60.0,cloudy,4.0
+61,4861,2019,Regular,Grass-Roof,60.0,light rain,4.32
+62,4862,2019,Regular,Turf,32.0,clear sky,3.36
+63,4863,2019,Regular,Grass,59.0,few clouds,4.7
+64,4860,2019,Regular,Grass,63.0,light rain,9.17
+65,4851,2019,Regular,Turf-Roof,53.0,few clouds,10.29
+66,4852,2019,Regular,Turf,42.0,light rain,18.34
+67,4853,2019,Regular,Grass,46.0,clear sky,12.75
+68,4854,2019,Regular,Grass,38.0,clear sky,6.93
+69,4855,2019,Regular,Turf-Roof,70.0,broken clouds,10.29
+70,4856,2019,Regular,Turf-Dome,32.0,mist,8.05
+71,4857,2019,Regular,Turf-Dome,68.0,clear sky,4.54
+72,4858,2019,Regular,Turf,39.0,clear sky,11.41
+73,4859,2019,Regular,Grass,78.0,broken clouds,6.93
+74,4850,2019,Regular,Grass,41.0,overcast clouds,8.05
+75,4849,2019,Regular,Turf,51.0,clear sky,1.0
+76,4848,2019,Regular,Turf-Roof,53.0,clear sky,11.59
+77,4846,2019,Regular,Grass,29.0,clear sky,2.51
+78,4847,2019,Regular,Grass,42.0,light rain,14.99
+79,4845,2019,Regular,Grass-Roof,64.0,clear sky,4.7
+80,4837,2019,Regular,Grass,65.0,scattered clouds,20.8
+81,4838,2019,Regular,Turf,42.0,overcast clouds,11.41
+82,4839,2019,Regular,Turf-Roof,37.0,light rain,19.46
+83,4840,2019,Regular,Grass,81.0,broken clouds,19.46
+84,4841,2019,Regular,Grass,35.0,overcast clouds,16.11
+85,4842,2019,Regular,Grass,83.0,scattered clouds,11.41
+86,4843,2019,Regular,Turf,31.0,moderate rain,21.92
+87,4844,2019,Regular,Grass,42.0,heavy intensity rain,8.05
+88,4836,2019,Thanksgiving,Turf-Roof,,,
+89,4835,2019,Thanksgiving,Turf-Roof,,,
+90,4834,2019,Thanksgiving,Turf-Dome,,,
+91,4833,2019,Regular,Grass,62.0,clear sky,5.0
+92,4831,2019,Regular,Grass,63.0,clear sky,7.0
+93,4832,2019,Regular,Grass,39.0,clear sky,10.29
+94,4830,2019,Regular,Turf,38.0,rain,16.0
+95,4829,2019,Regular,Grass,52.0,clear sky,5.82
+96,4821,2019,Regular,Turf-Roof,51.0,clear sky,8.05
+97,4822,2019,Regular,Turf,41.0,broken clouds,23.04
+98,4823,2019,Regular,Grass,47.0,clear sky,6.93
+99,4824,2019,Regular,Turf,45.0,scattered clouds,14.99
+100,4825,2019,Regular,Grass,39.0,scattered clouds,14.99
+101,4826,2019,Regular,Turf-Dome,58.0,clear sky,3.76
+102,4827,2019,Regular,Turf,42.0,light rain,3.36
+103,4828,2019,Regular,Grass,49.0,moderate rain,16.11
+104,4820,2019,Regular,Turf-Roof,73.0,clear sky,4.7
+105,4819,2019,Regular,Grass,71.0,clear sky,4.7
+106,4818,2019,Regular,Grass,77.0,clear sky,5.86
+107,4816,2019,Regular,Grass,41.0,overcast clouds,18.34
+108,4817,2019,Regular,Grass,72.0,few clouds,12.75
+109,4815,2019,Regular,Grass,72.0,few clouds,4.52
+110,4807,2019,Regular,Grass,54.0,overcast clouds,9.17
+111,4808,2019,Regular,Turf-Roof,43.0,clear sky,4.32
+112,4809,2019,Regular,Turf-Dome,39.0,clear sky,4.7
+113,4810,2019,Regular,Grass,62.0,broken clouds,11.41
+114,4811,2019,Regular,Turf-Dome,38.0,overcast clouds,10.29
+115,4812,2019,Regular,Grass,43.0,overcast clouds,9.17
+116,4813,2019,Regular,Grass,56.0,overcast clouds,5.82
+117,4814,2019,Regular,Grass,43.0,overcast clouds,9.17
+118,4806,2019,Regular,Grass,31.0,overcast clouds,11.41
+119,4805,2019,Regular,Grass,64.0,broken clouds,0.96
+120,4804,2019,Regular,Turf-Roof,64.0,clear sky,12.75
+121,4803,2019,Regular,Grass,55.0,clear sky,12.0
+122,4802,2019,Regular,Turf-Roof,59.0,partly cloudy,8.0
+123,4794,2019,Regular,Grass,41.0,overcast clouds,10.29
+124,4795,2019,Regular,Turf,58.0,clear sky,12.75
+125,4796,2019,Regular,Grass,51.0,few clouds,10.29
+126,4797,2019,Regular,Grass,34.0,overcast clouds,3.36
+127,4798,2019,Regular,Turf-Dome,69.0,few clouds,4.7
+128,4799,2019,Regular,Turf,49.0,overcast clouds,5.82
+129,4800,2019,Regular,Grass,63.0,clear sky,14.99
+130,4801,2019,Regular,Grass,77.0,clear sky,6.93
+131,4793,2019,Regular,Grass,54.0,partly cloudy,9.0
+132,4792,2019,Regular,Turf,51.0,clear sky,10.0
+133,4791,2019,Regular,Grass,48.0,clear sky,1.0
+134,4789,2019,Regular,Grass,53.0,broken clouds,4.7
+135,4790,2019,Regular,Grass,77.0,clear sky,3.36
+136,4787,2019,Regular,Grass,75.0,clear sky,6.93
+137,4788,2019,Regular,Turf,53.0,clear sky,4.7
+138,4781,2019,Regular,Turf,42.0,broken clouds,17.22
+139,4782,2019,Regular,Grass,58.0,clear sky,3.36
+140,4783,2019,Regular,Grass,59.0,clear sky,12.75
+141,4784,2019,Regular,Grass,85.0,mostly cloudy,11.0
+142,4785,2019,Regular,Grass,52.0,few clouds,8.05
+143,4786,2019,Regular,Grass,47.0,scattered clouds,10.29
+144,4780,2019,Regular,Grass,72.0,haze,9.17
+145,4779,2019,Regular,Grass-Roof,75.0,clear sky,5.0
+146,4778,2019,Regular,Grass,50.0,clear sky,4.52
+147,4777,2019,Regular,Grass,54.0,mostly cloudy,5.0
+148,4775,2019,Regular,Turf-Roof,62.0,clear sky,5.82
+149,4776,2019,Regular,Turf,50.0,moderate rain,10.29
+150,4774,2019,Regular,Grass,66.0,clear sky,19.0
+151,4765,2019,Regular,Turf-Dome,68.0,few clouds,4.7
+152,4766,2019,Regular,Turf,55.0,light rain,28.86
+153,4767,2019,Regular,Grass,54.0,clear sky,9.17
+154,4768,2019,Regular,Turf-Dome,54.0,overcast clouds,19.46
+155,4769,2019,Regular,Turf-Roof,74.0,clear sky,6.31
+156,4770,2019,Regular,Grass,82.0,light rain,8.05
+157,4771,2019,Regular,Turf-Dome,67.0,overcast clouds,5.82
+158,4772,2019,Regular,Grass,60.0,overcast clouds,3.36
+159,4773,2019,Regular,Grass,68.0,few clouds,11.41
+160,4764,2019,Regular,Turf-Dome,,,
+161,4763,2019,Regular,Turf,58.0,clear sky,0.0
+162,4762,2019,Regular,Turf-Roof,,,
+163,4760,2019,Regular,Grass,54.0,mostly cloudy,6.0
+164,4761,2019,Regular,Turf,50.0,rain,8.0
+165,4759,2019,Regular,Grass,75.0,clear sky,2.37
+166,4751,2019,Regular,Turf-Roof,69.0,overcast clouds,9.17
+167,4752,2019,Regular,Turf,63.0,broken clouds,6.93
+168,4753,2019,Regular,Turf,71.0,clear sky,3.2
+169,4754,2019,Regular,Turf-Roof,68.0,scattered clouds,4.7
+170,4755,2019,Regular,Turf-Dome,62.0,overcast clouds,2.53
+171,4756,2019,Regular,Grass,55.0,clear sky,4.32
+172,4757,2019,Regular,Turf,57.0,moderate rain,4.7
+173,4758,2019,Regular,Grass,54.0,heavy intensity rain,6.93
+174,4750,2019,Regular,Grass,62.0,broken clouds,8.05
+175,4748,2019,Regular,Grass,38.0,clear sky,3.36
+176,4747,2019,Regular,Grass,68.0,very heavy rain,4.7
+177,4745,2019,Regular,Grass,69.0,clear sky,7.0
+178,4746,2019,Regular,Turf,66.0,clear sky,7.0
+179,4743,2019,Regular,Grass-Roof,87.0,clear sky,6.93
+180,4744,2019,Regular,Grass,75.0,clear sky,3.36
+181,4737,2019,Regular,Grass,62.0,clear sky,9.17
+182,4738,2019,Regular,Grass,84.0,haze,5.82
+183,4739,2019,Regular,Grass,60.0,clear sky,3.93
+184,4740,2019,Regular,Grass,86.0,broken clouds,12.75
+185,4741,2019,Regular,Turf-Dome,40.0,overcast clouds,12.75
+186,4742,2019,Regular,Grass,63.0,overcast clouds,6.93
+187,4736,2019,Regular,Grass,61.0,mostly cloudy,14.0
+188,4735,2019,Regular,Turf,54.0,cloudy,13.0
+189,4734,2019,Regular,Grass,87.0,clear sky,8.0
+190,4733,2019,Regular,Grass,59.0,mostly cloudy,3.0
+191,4732,2019,Regular,Turf-Roof,96.0,scattered clouds,13.87
+192,4731,2019,Regular,Grass,87.0,clear sky,6.55
+193,4721,2019,Regular,Grass,72.0,broken clouds,3.36
+194,4722,2019,Regular,Turf,74.0,light rain,9.17
+195,4723,2019,Regular,Turf-Roof,87.0,scattered clouds,6.93
+196,4724,2019,Regular,Turf-Dome,87.0,clear sky,12.75
+197,4725,2019,Regular,Turf,67.0,overcast clouds,13.87
+198,4726,2019,Regular,Grass,76.0,overcast clouds,11.41
+199,4727,2019,Regular,Grass,69.0,overcast clouds,9.17
+200,4728,2019,Regular,Grass,67.0,broken clouds,6.93
+201,4729,2019,Regular,Grass,70.0,few clouds,6.93
+202,4730,2019,Regular,Grass,69.0,overcast clouds,4.7
+203,4720,2019,Regular,Turf,55.0,light rain,5.82
+204,4719,2019,Regular,Grass,70.0,light rain,3.36
+205,4718,2019,Regular,Turf-Dome,81.0,clear sky,3.36
+206,4716,2019,Regular,Grass,66.0,mist,6.93
+207,4717,2019,Regular,Grass,85.0,clear sky,23.04
+208,4714,2019,Regular,Grass-Roof,87.0,clear sky,13.87
+209,4715,2019,Regular,Grass,71.0,light rain,12.48
+210,4706,2019,Regular,Turf-Roof,87.0,clear sky,1.81
+211,4707,2019,Regular,Turf,61.0,broken clouds,11.41
+212,4708,2019,Regular,Turf-Roof,74.0,light rain,12.12
+213,4709,2019,Regular,Turf-Dome,59.0,heavy intensity rain,11.41
+214,4710,2019,Regular,Turf-Roof,89.0,few clouds,9.84
+215,4711,2019,Regular,Grass,87.0,scattered clouds,14.99
+216,4712,2019,Regular,Turf,77.0,scattered clouds,5.82
+217,4713,2019,Regular,Grass,82.0,scattered clouds,10.18
+218,4705,2019,Regular,Grass,59.0,clear sky,3.36
+219,4704,2019,Regular,Grass,87.0,mostly cloudy,5.0
+220,4703,2019,Regular,Grass,76.0,clear sky,12.75
+221,4700,2019,Regular,Grass,88.0,clear sky,7.11
+222,4701,2019,Regular,Turf,61.0,light rain,9.17
+223,4702,2019,Regular,Grass,79.0,broken clouds,4.7
+224,4698,2019,Regular,Grass-Roof,95.0,clear sky,2.51
+225,4699,2019,Regular,Grass,88.0,overcast clouds,12.75
+226,4690,2019,Regular,Turf,83.0,clear sky,21.92
+227,4691,2019,Regular,Turf-Roof,83.0,scattered clouds,23.04
+228,4692,2019,Regular,Turf-Roof,87.0,few clouds,17.22
+229,4693,2019,Regular,Grass,69.0,moderate rain,8.05
+230,4694,2019,Regular,Grass,70.0,broken clouds,10.29
+231,4695,2019,Regular,Turf-Dome,,,
+232,4696,2019,Regular,Turf,83.0,clear sky,6.93
+233,4697,2019,Regular,Grass,85.0,clear sky,4.7
+234,4689,2019,Regular,Grass,72.0,moderate rain,9.17
+235,4688,2019,Regular,Turf,72.0,cloudy,3.0
+236,4687,2019,Regular,Turf-Roof,76.0,clear sky,4.25
+237,4685,2019,Regular,Grass,87.0,clear sky,3.36
+238,4686,2019,Regular,Grass,85.0,haze,3.36
+239,4684,2019,Regular,Grass,70.0,scattered clouds,18.34
+240,4674,2019,Regular,Turf,82.0,clear sky,3.36
+241,4675,2019,Regular,Turf-Dome,71.0,light rain,11.41
+242,4676,2019,Regular,Grass,71.0,overcast clouds,8.05
+243,4677,2019,Regular,Turf-Roof,91.0,scattered clouds,17.22
+244,4678,2019,Regular,Grass,91.0,few clouds,10.29
+245,4679,2019,Regular,Turf,80.0,clear sky,5.99
+246,4680,2019,Regular,Grass,93.0,clear sky,6.93
+247,4681,2019,Regular,Grass,78.0,clear sky,4.7
+248,4682,2019,Regular,Grass,82.0,clear sky,4.94
+249,4683,2019,Regular,Grass,83.0,clear sky,4.7
+250,4673,2019,Regular,Grass,80.0,moderate rain,1.03
+251,4672,2019,Regular,Turf,68.0,breeze,15.0
+252,4671,2019,Regular,Turf-Dome,85.0,thunderstorm,3.85
+253,4670,2019,Regular,Turf,63.0,broken clouds,5.82
+254,4667,2019,Regular,Turf-Roof,98.0,clear sky,9.17
+255,4669,2019,Regular,Grass-Roof,98.0,clear sky,10.29
+256,4665,2019,Regular,Grass,78.0,few clouds,14.99
+257,4666,2019,Regular,Turf,60.0,light rain,9.17
+258,4668,2019,Regular,Grass,91.0,overcast clouds,4.7
+259,4658,2019,Regular,Grass,95.0,clear sky,3.36
+260,4659,2019,Regular,Turf-Dome,56.0,moderate rain,6.93
+261,4660,2019,Regular,Grass,72.0,broken clouds,10.29
+262,4661,2019,Regular,Turf,76.0,clear sky,3.36
+263,4662,2019,Regular,Grass,91.0,broken clouds,8.05
+264,4663,2019,Regular,Grass,78.0,clear sky,6.93
+265,4664,2019,Regular,Grass,87.0,clear sky,3.22
+266,4657,2019,Regular,Grass,64.0,scattered clouds,4.7
+0,5480,2020,SuperBowl,Grass,57.0,partly cloudy,7.0
+1,5478,2020,Playoff-CONF,Grass,39.0,overcast clouds,9.22
+2,5479,2020,Playoff-CONF,Grass,29.0,overcast clouds,9.22
+3,5475,2020,Playoff-DIV,Turf-Dome,54.0,clear sky,5.75
+4,5477,2020,Playoff-DIV,Grass,41.0,broken clouds,16.11
+5,5476,2020,Playoff-DIV,Turf,32.0,broken clouds,12.66
+6,5474,2020,Playoff-DIV,Grass,33.0,overcast clouds,9.22
+7,5473,2020,Playoff-WC,Grass,27.0,clear sky,3.44
+8,5472,2020,Playoff-WC,Turf-Dome,45.0,overcast clouds,16.11
+9,5471,2020,Playoff-WC,Grass,34.0,broken clouds,4.61
+10,5470,2020,Playoff-WC,Grass,39.0,clear sky,9.22
+11,5469,2020,Playoff-WC,Turf,43.0,broken clouds,1.19
+12,5468,2020,Playoff-WC,Turf,35.0,broken clouds,8.05
+13,5463,2020,Regular,Grass,38.0,light rain,10.29
+14,5453,2020,Regular,Grass,57.0,broken clouds,6.93
+15,5454,2020,Regular,Grass,34.0,mist,6.93
+16,5457,2020,Regular,Turf-Roof,34.0,overcast clouds,14.99
+17,5459,2020,Regular,Turf-Roof,64.0,few clouds,12.75
+18,5460,2020,Regular,Grass,32.0,fog,9.17
+19,5465,2020,Regular,Grass,50.0,scattered clouds,24.16
+20,5466,2020,Regular,Turf-Dome,61.0,clear sky,3.36
+21,5467,2020,Regular,Grass,57.0,broken clouds,4.7
+22,5452,2020,Regular,Turf,35.0,overcast clouds,1.5
+23,5455,2020,Regular,Turf,39.0,overcast clouds,14.99
+24,5456,2020,Regular,Grass,39.0,overcast clouds,6.93
+25,5458,2020,Regular,Turf-Dome,35.0,mist,3.36
+26,5461,2020,Regular,Turf,35.0,overcast clouds,3.36
+27,5462,2020,Regular,Turf,36.0,overcast clouds,16.11
+28,5464,2020,Regular,Grass,65.0,overcast clouds,5.82
+29,5451,2020,Regular,Turf,38.0,few clouds,3.36
+30,5450,2020,Regular,Grass,26.0,light snow,13.87
+31,5449,2020,Regular,Turf-Roof,73.0,few clouds,10.29
+32,5446,2020,Regular,Grass,63.0,clear sky,8.55
+33,5448,2020,Regular,Turf,46.0,overcast clouds,4.7
+34,5447,2020,Regular,Grass,41.0,clear sky,4.7
+35,5439,2020,Regular,Turf-Roof,72.0,broken clouds,13.87
+36,5440,2020,Regular,Grass,59.0,clear sky,4.7
+37,5441,2020,Regular,Grass,50.0,scattered clouds,11.41
+38,5442,2020,Regular,Turf,38.0,clear sky,5.82
+39,5443,2020,Regular,Grass,40.0,clear sky,10.29
+40,5445,2020,Regular,Grass,38.0,scattered clouds,8.05
+41,5444,2020,Regular,Grass-Dome,52.0,clear sky,2.0
+42,5437,2020,Regular,Grass-Roof,69.0,partly cloudy,4.0
+43,5438,2020,Regular,Turf-Dome,26.0,overcast clouds,11.41
+44,5436,2020,Regular,Turf-Dome,49.0,clear sky,9.0
+45,5435,2020,Regular,Turf,43.0,cloudy,10.0
+46,5427,2020,Regular,Turf,37.0,overcast clouds,2.08
+47,5433,2020,Regular,Turf-Dome,60.0,clear sky,5.0
+48,5432,2020,Regular,Grass-Roof,66.0,clear sky,2.17
+49,5421,2020,Regular,Turf-Roof,54.0,overcast clouds,3.36
+50,5422,2020,Regular,Turf-Roof,39.0,broken clouds,10.29
+51,5425,2020,Regular,Grass,80.0,few clouds,11.41
+52,5426,2020,Regular,Turf-Dome,36.0,scattered clouds,10.29
+53,5428,2020,Regular,Grass,46.0,overcast clouds,3.36
+54,5429,2020,Regular,Turf-Dome,69.0,clear sky,1.32
+55,5430,2020,Regular,Grass,43.0,broken clouds,9.17
+56,5431,2020,Regular,Grass,43.0,overcast clouds,4.7
+57,5434,2020,Regular,Turf-Roof,58.0,clear sky,8.05
+58,5424,2020,Regular,Grass,33.0,cloudy,5.0
+59,5423,2020,Regular,Grass,47.0,partly cloudy,24.0
+60,5420,2020,Regular,Grass-Dome,57.0,cloudy,7.0
+61,5419,2020,Regular,Grass,34.0,cloudy,18.0
+62,5418,2020,Regular,Turf,35.0,overcast clouds,7.99
+63,5415,2020,Regular,Grass,51.0,broken clouds,11.41
+64,5416,2020,Regular,Grass,66.0,clear sky,5.12
+65,5417,2020,Regular,Grass-Roof,59.0,broken clouds,11.41
+66,5413,2020,Regular,Grass-Dome,48.0,broken clouds,4.7
+67,5414,2020,Regular,Turf,43.0,overcast clouds,8.05
+68,5408,2020,Regular,Turf-Dome,35.0,overcast clouds,8.05
+69,5405,2020,Regular,Grass,67.0,scattered clouds,5.82
+70,5406,2020,Regular,Grass,35.0,broken clouds,2.44
+71,5407,2020,Regular,Turf,43.0,overcast clouds,1.7
+72,5409,2020,Regular,Grass,73.0,scattered clouds,3.38
+73,5410,2020,Regular,Grass,82.0,few clouds,8.05
+74,5411,2020,Regular,Turf,60.0,clear sky,10.29
+75,5412,2020,Regular,Grass,79.0,broken clouds,8.05
+76,5404,2020,Regular,Turf-Dome,57.0,clear sky,3.36
+77,5389,2020,Regular,Grass,33.0,few clouds,8.05
+78,5403,2020,Regular,Grass-Roof,,,
+79,5397,2020,Regular,Grass,34.0,cloudy,10.0
+80,5402,2020,Regular,Grass,39.0,clear sky,5.82
+81,5400,2020,Regular,Grass,34.0,broken clouds,9.17
+82,5401,2020,Regular,Grass,70.0,clear sky,3.36
+83,5398,2020,Regular,Grass-Roof,70.0,clear sky,1.97
+84,5399,2020,Regular,Turf,52.0,broken clouds,9.17
+85,5390,2020,Regular,Turf-Roof,55.0,clear sky,5.82
+86,5391,2020,Regular,Grass,36.0,overcast clouds,5.23
+87,5392,2020,Regular,Turf-Roof,63.0,scattered clouds,3.36
+88,5393,2020,Regular,Grass,79.0,overcast clouds,5.82
+89,5394,2020,Regular,Turf-Dome,35.0,haze,8.05
+90,5395,2020,Regular,Turf,40.0,clear sky,17.22
+91,5396,2020,Regular,Grass,56.0,broken clouds,2.24
+92,5375,2020,Regular,Grass,52.0,scattered clouds,6.93
+93,5388,2020,Regular,Grass,60.0,rain,16.0
+94,5387,2020,Regular,Grass,36.0,overcast clouds,13.87
+95,5386,2020,Regular,Grass,81.0,clear sky,5.0
+96,5384,2020,Regular,Grass,38.0,clear sky,6.0
+97,5385,2020,Regular,Turf-Dome,72.0,clear sky,3.0
+98,5376,2020,Regular,Turf-Roof,55.0,overcast clouds,4.7
+99,5377,2020,Regular,Turf,50.0,overcast clouds,1.01
+100,5378,2020,Regular,Turf,52.0,clear sky,3.36
+101,5379,2020,Regular,Turf-Roof,52.0,scattered clouds,8.05
+102,5380,2020,Regular,Grass,73.0,broken clouds,4.7
+103,5381,2020,Regular,Turf-Dome,35.0,overcast clouds,23.04
+104,5382,2020,Regular,Turf,53.0,clear sky,9.17
+105,5383,2020,Regular,Turf,54.0,clear sky,4.7
+106,5374,2020,Thanksgiving,Turf-Roof,71.0,scattered clouds,1.99
+107,5373,2020,Thanksgiving,Turf-Dome,48.0,cloudy,12.0
+108,5372,2020,Regular,Grass,69.0,clear sky,5.0
+109,5371,2020,Regular,Grass-Dome,55.0,clear sky,3.36
+110,5370,2020,Regular,Turf-Dome,39.0,cloudy,14.0
+111,5359,2020,Regular,Grass,46.0,clear sky,1.99
+112,5360,2020,Regular,Grass,69.0,clear sky,3.36
+113,5364,2020,Regular,Turf-Roof,39.0,mist,16.11
+114,5362,2020,Regular,Grass,64.0,overcast clouds,6.93
+115,5363,2020,Regular,Grass,37.0,light rain,8.05
+116,5365,2020,Regular,Turf-Roof,78.0,clear sky,2.28
+117,5366,2020,Regular,Grass,72.0,broken clouds,9.17
+118,5367,2020,Regular,Turf-Dome,74.0,few clouds,10.29
+119,5368,2020,Regular,Grass,53.0,overcast clouds,9.17
+120,5369,2020,Regular,Grass,57.0,broken clouds,5.82
+121,5361,2020,Regular,Turf,45.0,overcast clouds,9.17
+122,5358,2020,Regular,Grass,44.0,clear sky,11.0
+123,5357,2020,Regular,Turf,54.0,light rain,16.11
+124,5352,2020,Regular,Grass,57.0,moderate rain,14.99
+125,5355,2020,Regular,Turf-Dome,75.0,clear sky,18.34
+126,5356,2020,Regular,Turf-Dome,78.0,clear sky,4.56
+127,5345,2020,Regular,Grass,83.0,few clouds,8.05
+128,5353,2020,Regular,Grass-Roof,79.0,clear sky,3.22
+129,5354,2020,Regular,Grass-Dome,66.0,few clouds,3.36
+130,5347,2020,Regular,Grass,71.0,broken clouds,14.99
+131,5348,2020,Regular,Grass,51.0,thunderstorm,39.15
+132,5349,2020,Regular,Turf-Dome,49.0,scattered clouds,32.21
+133,5350,2020,Regular,Grass,37.0,overcast clouds,28.86
+134,5351,2020,Regular,Turf,56.0,overcast clouds,17.22
+135,5346,2020,Regular,Grass,56.0,clear sky,6.0
+136,5344,2020,Regular,Turf,62.0,clear sky,4.7
+137,5343,2020,Regular,Grass,75.0,moderate rain,8.05
+138,5341,2020,Regular,Grass-Roof,64.0,broken clouds,12.75
+139,5342,2020,Regular,Turf-Roof,73.0,scattered clouds,14.99
+140,5340,2020,Regular,Grass,60.0,clear sky,8.05
+141,5332,2020,Regular,Turf-Roof,72.0,overcast clouds,14.99
+142,5333,2020,Regular,Turf,69.0,clear sky,6.22
+143,5334,2020,Regular,Turf-Roof,77.0,few clouds,10.29
+144,5335,2020,Regular,Grass,81.0,broken clouds,19.46
+145,5336,2020,Regular,Grass,73.0,scattered clouds,16.11
+146,5337,2020,Regular,Turf-Dome,69.0,few clouds,21.92
+147,5338,2020,Regular,Grass,78.0,few clouds,8.05
+148,5339,2020,Regular,Grass,75.0,clear sky,3.36
+149,5331,2020,Regular,Grass,68.0,clear sky,10.29
+150,5329,2020,Regular,Turf,41.0,clear sky,18.34
+151,5328,2020,Regular,Grass,49.0,cloudy,17.0
+152,5326,2020,Regular,Grass,40.0,broken clouds,1.99
+153,5327,2020,Regular,Turf,57.0,clear sky,3.36
+154,5330,2020,Regular,Grass,67.0,clear sky,5.01
+155,5310,2020,Regular,Grass,53.0,mist,9.17
+156,5319,2020,Regular,Turf,40.0,moderate rain,3.0
+157,5320,2020,Regular,Turf,50.0,few clouds,4.0
+158,5321,2020,Regular,Grass,40.0,light rain,16.11
+159,5322,2020,Regular,Turf-Dome,39.0,overcast clouds,26.4
+160,5323,2020,Regular,Grass,35.0,overcast clouds,23.04
+161,5324,2020,Regular,Grass,49.0,clear sky,10.29
+162,5325,2020,Regular,Grass,86.0,scattered clouds,12.75
+163,5318,2020,Regular,Grass,70.0,moderate rain,14.99
+164,5316,2020,Regular,Turf-Dome,66.0,clear sky,1.41
+165,5312,2020,Regular,Grass-Roof,85.0,scattered clouds,14.99
+166,5313,2020,Regular,Grass,12.0,overcast clouds,4.0
+167,5314,2020,Regular,Turf,45.0,few clouds,3.36
+168,5317,2020,Regular,Grass,67.0,overcast clouds,5.82
+169,5315,2020,Regular,Grass-Dome,75.0,clear sky,9.0
+170,5303,2020,Regular,Grass,60.0,overcast clouds,4.7
+171,5305,2020,Regular,Turf-Roof,73.0,overcast clouds,3.36
+172,5306,2020,Regular,Turf,52.0,overcast clouds,8.05
+173,5307,2020,Regular,Turf-Roof,75.0,overcast clouds,10.29
+174,5308,2020,Regular,Turf-Dome,69.0,overcast clouds,8.05
+175,5309,2020,Regular,Turf,51.0,clear sky,8.05
+176,5311,2020,Regular,Grass,47.0,light rain,3.36
+177,5304,2020,Regular,Grass,68.0,broken clouds,3.36
+178,5301,2020,Regular,Turf-Roof,64.0,clear sky,5.0
+179,5290,2020,Regular,Turf,50.0,moderate rain,4.32
+180,5300,2020,Regular,Grass,83.0,clear sky,9.17
+181,5299,2020,Regular,Grass,88.0,cloudy,12.0
+182,5302,2020,Regular,Grass,85.0,cloudy,12.0
+183,5278,2020,Regular,Turf,60.0,clear sky,5.82
+184,5291,2020,Regular,Grass,63.0,few clouds,6.93
+185,5292,2020,Regular,Turf-Roof,58.0,overcast clouds,16.11
+186,5293,2020,Regular,Grass,81.0,scattered clouds,13.87
+187,5294,2020,Regular,Turf-Dome,33.0,broken clouds,17.22
+188,5295,2020,Regular,Turf,62.0,broken clouds,9.17
+189,5296,2020,Regular,Grass,62.0,moderate rain,8.05
+190,5297,2020,Regular,Grass,64.0,few clouds,6.93
+191,5298,2020,Regular,Grass,61.0,broken clouds,12.75
+192,5281,2020,Regular,Grass,73.0,clear sky,3.0
+193,5289,2020,Regular,Turf-Dome,88.0,clear sky,7.0
+194,5288,2020,Regular,Turf,56.0,light rain,23.04
+195,5286,2020,Regular,Turf,95.0,clear sky,12.75
+196,5287,2020,Regular,Grass,65.0,overcast clouds,19.46
+197,5285,2020,Regular,Grass,77.0,few clouds,13.87
+198,5276,2020,Regular,Turf-Roof,71.0,moderate rain,6.93
+199,5277,2020,Regular,Grass,79.0,clear sky,13.87
+200,5279,2020,Regular,Grass,70.0,overcast clouds,3.36
+201,5280,2020,Regular,Turf-Roof,88.0,clear sky,1.99
+202,5282,2020,Regular,Turf,65.0,overcast clouds,8.05
+203,5283,2020,Regular,Grass,70.0,few clouds,6.93
+204,5284,2020,Regular,Turf,69.0,overcast clouds,10.29
+205,5269,2020,Regular,Grass,57.0,clear sky,7.0
+206,5275,2020,Regular,Grass,56.0,clear sky,11.41
+207,5272,2020,Regular,Grass,66.0,clear sky,11.41
+208,5274,2020,Regular,Grass,84.0,clear sky,12.0
+209,5273,2020,Regular,Grass-Dome,96.0,clear sky,5.82
+210,5262,2020,Regular,Grass,52.0,broken clouds,11.41
+211,5261,2020,Regular,Turf-Dome,51.0,light rain,8.05
+212,5263,2020,Regular,Grass,68.0,scattered clouds,8.05
+213,5264,2020,Regular,Turf,67.0,scattered clouds,12.75
+214,5265,2020,Regular,Turf-Roof,75.0,few clouds,12.75
+215,5266,2020,Regular,Turf-Roof,83.0,clear sky,5.82
+216,5267,2020,Regular,Grass,89.0,scattered clouds,14.99
+217,5268,2020,Regular,Grass,75.0,overcast clouds,8.05
+218,5270,2020,Regular,Grass,66.0,few clouds,6.93
+219,5271,2020,Regular,Turf-Dome,87.0,haze,7.43
+220,5260,2020,Regular,Turf,54.0,cloudy,6.0
+221,5259,2020,Regular,Grass,73.0,cloudy,8.0
+222,5258,2020,Regular,Turf-Dome,80.0,clear sky,6.93
+223,5255,2020,Regular,Grass-Roof,99.0,few clouds,8.05
+224,5256,2020,Regular,Grass,52.0,overcast clouds,1.01
+225,5253,2020,Regular,Turf-Roof,79.0,few clouds,10.29
+226,5254,2020,Regular,Turf-Dome,75.0,clear sky,7.43
+227,5257,2020,Regular,Turf,65.0,few clouds,8.05
+228,5245,2020,Regular,Turf,77.0,overcast clouds,8.05
+229,5246,2020,Regular,Turf,81.0,broken clouds,3.0
+230,5247,2020,Regular,Grass,77.0,broken clouds,10.29
+231,5248,2020,Regular,Turf,78.0,broken clouds,4.7
+232,5249,2020,Regular,Turf-Dome,62.0,scattered clouds,13.87
+233,5250,2020,Regular,Grass,77.0,clear sky,16.11
+234,5251,2020,Regular,Grass,79.0,broken clouds,5.82
+235,5252,2020,Regular,Turf-Roof,80.0,broken clouds,3.36
+236,5244,2020,Regular,Grass,81.0,partly cloudy,12.0
+237,5243,2020,Regular,Grass-Dome,99.0,clear sky,
+238,5242,2020,Regular,Turf,68.0,clear sky,3.44
+239,5240,2020,Regular,Turf-Roof,71.0,heavy intensity rain,17.22
+240,5241,2020,Regular,Turf-Dome,76.0,haze,6.93
+241,5239,2020,Regular,Grass-Roof,103.0,few clouds,3.36
+242,5229,2020,Regular,Grass,64.0,few clouds,12.75
+243,5230,2020,Regular,Grass,86.0,broken clouds,13.87
+244,5231,2020,Regular,Grass,65.0,clear sky,8.05
+245,5232,2020,Regular,Turf-Roof,76.0,few clouds,8.21
+246,5233,2020,Regular,Turf,62.0,clear sky,12.75
+247,5234,2020,Regular,Grass,90.0,broken clouds,10.29
+248,5235,2020,Regular,Turf-Roof,68.0,few clouds,12.75
+249,5236,2020,Regular,Grass,68.0,clear sky,9.17
+250,5237,2020,Regular,Grass,69.0,few clouds,12.75
+251,5238,2020,Regular,Grass,74.0,few clouds,3.36
+252,5228,2020,Regular,Grass,65.0,clear sky,8.0
+253,4940,2020,Regular,Grass,74.0,clear sky,1.01
+254,4939,2020,Regular,Turf,65.0,clear sky,15.14
+255,4938,2020,Regular,Turf-Dome,72.0,cloudy,7.0
+256,4936,2020,Regular,Grass,66.0,haze,6.0
+257,4937,2020,Regular,Turf-Dome,86.0,partly cloudy,14.0
+258,4935,2020,Regular,Turf,83.0,partly cloudy,6.0
+259,4926,2020,Regular,Grass,67.0,cloudy,15.0
+260,4927,2020,Regular,Turf-Dome,,,
+261,4928,2020,Regular,Grass,76.0,cloudy,5.0
+262,4929,2020,Regular,Turf,76.0,cloudy,5.0
+263,4930,2020,Regular,Grass,80.0,cloudy,3.0
+264,4931,2020,Regular,Grass,81.0,clear sky,5.0
+265,4932,2020,Regular,Turf-Dome,71.0,partly cloudy,14.0
+266,4933,2020,Regular,Turf-Roof,80.0,cloudy,7.0
+267,4934,2020,Regular,Turf,70.0,partly cloudy,8.0
+268,4925,2020,Regular,Grass,56.0,cloudy,7.0
