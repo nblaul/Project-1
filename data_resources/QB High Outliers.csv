@@ -1,0 +1,31 @@
+,gameId,season_x,week,lastName,firstName,position,uniformNumber,opponent,team,att,comp,passYds,passTds,ints,sacks,sackYds,rush,rushYds,rushTds,rec,recYds,recTds,QB Rating,season_y,type,surface,temperature,conditions,windSpeed
+4720,3802,2015,15,Cousins,K,QB,12,Bills,Washington,28,22,319,4,0,1,11,3,11,1,0,0,0,162.6488095,2015,Regular,Grass,46.4,clear sky,3.5
+4204,3795,2015,14,Manning,E,QB,10,Dolphins,Giants,31,27,337,4,0,0,0,3,-2,0,0,0,0,162.9704301,2015,Regular,Grass,73.9,clear sky,4.6
+9929,4064,2016,15,Moore,M,QB,3,Jets,Dolphins,18,12,236,4,1,1,0,0,0,0,0,0,0,163.1944444,2016,Regular,Turf,33.8,overcast,4.6
+3631,3761,2015,12,Wilson,R,QB,3,Steelers,Seahawks,30,21,345,5,0,2,9,4,14,0,0,0,0,163.8888889,2015,Regular,Turf,33.8,overcast,3.5
+25240,4829,2019,12,Tannehill,R,QB,17,Jaguars,Titans,18,14,259,2,0,1,7,7,40,2,0,0,0,163.8888889,2019,Regular,Grass,52,clear sky,5.82
+32305,5454,2020,17,Rodgers,A,QB,12,Bears,Packers,24,19,240,4,0,1,3,1,4,0,0,0,0,165.2777778,2020,Regular,Grass,34,mist,6.93
+27121,4930,2020,1,Minshew,Gardner,QB,15,Colts,Jaguars,20,19,173,3,0,4,23,5,19,0,0,0,0,167.2916667,2020,Regular,Grass,80,cloudy,3
+26178,4866,2019,15,Jackson,Lamar,QB,8,Jets,Ravens,23,15,212,5,0,1,0,8,86,0,0,0,0,167.3007246,2019,Regular,Grass,33,partly cloudy,3
+25683,4860,2019,14,Rivers,P,QB,17,Jaguars,Chargers,22,16,314,3,0,1,10,1,0,0,0,0,0,167.6136364,2019,Regular,Grass,63,light rain,9.17
+19084,4525,2018,10,Mayfield,Baker,QB,6,Falcons,Browns,20,17,216,3,0,0,0,6,20,0,0,0,0,167.9166667,2018,Regular,Grass,39,clear sky,10.29
+2529,3711,2015,9,Taylor,T,QB,2,Dolphins,Bills,12,11,181,1,0,2,18,10,44,0,0,0,0,169.0972222,2015,Regular,Turf,48,partly cloudy,16.1
+23146,4720,2019,5,Wilson,R,QB,3,Rams,Seahawks,23,17,268,4,0,1,6,8,32,0,0,0,0,170.1992754,2019,Regular,Turf,55,light rain,5.82
+19465,4545,2018,11,Manning,E,QB,10,Buccaneers,Giants,18,17,231,2,0,3,26,1,-1,0,0,0,0,171.2962963,2018,Regular,Turf,40,overcast,3.04
+1855,3672,2015,6,Jones,L,QB,3,Cardinals,Steelers,12,8,168,2,0,0,0,1,-1,0,0,0,0,171.5277778,2015,Regular,Grass,42.1,overcast,11.5
+20376,4587,2018,14,Tannehill,R,QB,17,Patriots,Dolphins,19,14,265,3,0,4,36,1,13,0,0,0,0,174.2324561,2018,Regular,Grass,82,mostly cloudy,16.11
+13546,4247,2017,9,Goff,J,QB,16,Giants,Rams,22,14,311,4,0,0,0,0,0,0,0,0,0,174.6212121,2017,Regular,Turf,56,overcast,6
+3051,3725,2015,10,Cousins,K,QB,12,Saints,Washington,25,20,324,4,0,3,23,0,0,0,0,0,0,176.0833333,2015,Regular,Grass,64.4,clear sky,5.8
+17476,4438,2018,4,Goff,J,QB,16,Vikings,Rams,33,26,465,5,0,1,9,2,7,0,0,0,0,176.9570707,2018,Regular,Grass,75,clear sky,3
+6683,3916,2016,4,Roethlisberger,B,QB,7,Chiefs,Steelers,27,22,300,5,0,2,13,1,-1,0,0,0,0,178.0092593,2016,Regular,Grass,60.1,overcast,4.6
+20195,4580,2018,13,Wilson,R,QB,3,49ers,Seahawks,17,11,185,4,0,3,22,4,14,0,0,0,0,179.7794118,2018,Regular,Turf,45,overcast,2
+23670,4756,2019,7,Rodgers,A,QB,12,Raiders,Packers,31,25,429,5,0,1,8,2,6,1,0,0,0,180.7123656,2019,Regular,Grass,55,clear sky,4.32
+25187,4833,2019,12,Jackson,Lamar,QB,8,Rams,Ravens,20,15,169,5,0,2,9,8,95,0,0,0,0,183.125,2019,Regular,Grass,62,clear sky,5
+4711,3798,2015,15,Bridgewater,T,QB,5,Bears,Vikings,20,17,231,4,0,1,10,4,17,1,0,0,0,187.7083333,2015,Regular,Turf,39.9,overcast,4.6
+24612,4795,2019,10,Jackson,Lamar,QB,8,Bengals,Ravens,17,15,223,3,0,0,0,7,65,1,0,0,0,189.0931373,2019,Regular,Turf,58,clear sky,12.75
+16666,4412,2018,2,Mahomes,Patrick,QB,15,Steelers,Chiefs,28,23,326,6,0,1,4,5,18,0,0,0,0,190.4761905,2018,Regular,Grass,80,partly cloudy,10
+17253,4442,2018,4,Trubisky,Mitchell,QB,10,Buccaneers,Bears,26,19,354,6,0,1,10,3,53,0,0,0,0,196.6346154,2018,Regular,Grass,65,overcast,10.29
+19315,4524,2018,10,Roethlisberger,B,QB,7,Panthers,Steelers,25,22,328,5,0,1,6,3,27,0,0,0,0,196.75,2018,Regular,Grass,36,clear sky,5.82
+294,3600,2015,1,Mariota,M,QB,8,Buccaneers,Titans,16,13,209,4,0,2,24,2,6,0,0,0,0,207.5520833,2015,Regular,Grass,84.9,mostly cloudy,6.9
+2001,3683,2015,7,Tannehill,R,QB,17,Texans,Dolphins,19,18,282,4,0,4,41,1,3,0,0,0,0,213.0482456,2015,Regular,Grass,82,overcast,16.1
+21853,4662,2019,1,Jackson,Lamar,QB,8,Dolphins,Ravens,20,17,324,5,0,1,1,3,6,0,0,0,0,223.75,2019,Regular,Grass,91,broken clouds,8.05
