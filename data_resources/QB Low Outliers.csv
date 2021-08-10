@@ -1,0 +1,28 @@
+﻿,gameId,season_x,week,lastName,firstName,position,uniformNumber,opponent,team,att,comp,passYds,passTds,ints,sacks,sackYds,rush,rushYds,rushTds,rec,recYds,recTds,QB Rating,season_y,type,surface,temperature,conditions,windSpeed
+13939,4276,2017,11,Peterman,Nathan,QB,18,Chargers,Bills,14,6,66,0,5,0,0,2,4,0,0,0,0,-91.36904762,2017,Regular,Grass,76,partly cloudy,6
+2785,3730,2015,10,Manning,P,QB,18,Chiefs,Broncos,20,5,35,0,4,2,9,0,0,0,0,0,0,-53.125,2015,Regular,Grass,45,scattered clouds,6.9
+32320,5453,2020,17,Walker,Phillip,QB,8,Saints,Panthers,14,5,95,0,3,2,15,0,0,0,0,0,0,-29.16666667,2020,Regular,Grass,57,broken clouds,6.93
+16268,4394,2018,1,Peterman,Nathan,QB,18,Ravens,Bills,18,5,24,0,2,3,12,1,1,0,0,0,0,-15.50925926,2018,Regular,Turf,61,rain,12
+20583,4585,2018,14,Sanchez,M,QB,6,Giants,Washington,14,6,38,0,2,5,29,0,0,0,0,0,0,-10.41666667,2018,Regular,Grass,33,overcast,3.36
+23648,4763,2019,7,Darnold,Sam,QB,14,Patriots,Jets,32,11,86,0,4,1,13,2,-1,0,0,0,0,-10.15625,2019,Regular,Turf,58,clear sky,0
+8267,3988,2016,10,McCown,J,QB,12,Ravens,Browns,13,6,59,0,2,2,21,0,0,0,0,0,0,-4.647435897,2016,Regular,Turf,50,clear sky,0
+32126,5455,2020,17,Allen,Brandon,QB,8,Ravens,Bengals,21,6,48,0,2,0,0,1,2,0,0,0,0,-4.265873016,2020,Regular,Turf,39,overcast clouds,14.99
+29107,5314,2020,7,Newton,C,QB,1,49ers,Patriots,15,9,98,0,3,1,8,5,19,0,0,0,0,-4.027777778,2020,Regular,Turf,45,few clouds,3.36
+14031,4282,2017,11,Cutler,J,QB,6,Buccaneers,Dolphins,12,6,83,1,3,0,0,1,1,0,0,0,0,-3.819444444,2017,Regular,Grass,81,clear sky,9
+30108,5369,2020,11,Finley,Ryan,QB,5,Washington,Bengals,10,3,30,0,1,4,31,1,19,0,0,0,0,-2.083333333,2020,Regular,Grass,57,broken clouds,5.82
+22883,4712,2019,4,Haskins,Dwayne,QB,7,Giants,Washington,17,9,107,0,3,2,21,2,23,0,0,0,0,-1.102941176,2019,Regular,Turf,77,scattered clouds,5.82
+11724,4154,2017,3,Flacco,J,QB,5,Jaguars,Ravens,18,8,28,0,2,2,12,0,0,0,0,0,0,-0.694444444,2017,Regular,Grass,70,clear sky,0
+6256,3899,2016,3,Fitzpatrick,R,QB,12,Chiefs,Jets,44,20,188,0,6,0,0,3,22,0,0,0,0,0.946969697,2016,Regular,Grass,66,clear sky,5.8
+7357,3947,2016,7,Barkley,M,QB,2,Packers,Bears,15,6,81,0,2,1,10,1,-1,0,0,0,0,2.361111111,2016,Regular,Grass,46,overcast,9.2
+23462,4745,2019,6,Mariota,M,QB,8,Broncos,Titans,18,7,63,0,2,3,7,2,4,0,0,0,0,2.777777778,2019,Regular,Grass,69,clear sky,7
+22056,4678,2019,2,Fitzpatrick,R,QB,12,Patriots,Dolphins,21,11,89,0,3,4,23,1,6,0,0,0,0,3.869047619,2019,Regular,Grass,91,few clouds,10.29
+28305,5285,2020,5,Garoppolo,J,QB,10,Dolphins,49ers,17,7,77,0,2,3,23,0,0,0,0,0,0,6.25,2020,Regular,Grass,77,few clouds,13.87
+1525,3658,2015,5,Foles,N,QB,9,Packers,Rams,30,11,141,1,4,2,14,1,2,0,0,0,0,7.777777778,2015,Regular,Grass,78.1,clear sky,16.1
+16039,4368,2017,17,Foles,N,QB,9,Cowboys,Eagles,11,4,39,0,1,0,0,1,0,0,0,0,0,9.28030303,2017,Regular,Turf,19,clear sky,17
+30236,5366,2020,11,Luton,Jake,QB,6,Steelers,Jaguars,37,16,151,0,4,2,18,0,0,0,0,0,0,10.07882883,2020,Regular,Grass,72,broken clouds,9.17
+32239,5463,2020,17,Sudfeld,Nate,QB,7,Washington,Eagles,12,5,32,0,1,2,16,2,12,0,0,0,0,13.19444444,2020,Regular,Grass,38,light rain,10.29
+22948,4734,2019,5,Mayfield,Baker,QB,6,49ers,Browns,22,8,100,0,2,4,42,0,0,0,0,0,0,13.4469697,2019,Regular,Grass,87,clear sky,8
+10848,4125,2017,1,Dalton,A,QB,14,Ravens,Bengals,31,16,170,0,4,5,26,1,2,0,0,0,0,14.18010753,2017,Regular,Turf,68,clear sky,0
+28209,5272,2020,4,Stidham,Jarrett,QB,4,Chiefs,Patriots,13,5,60,1,2,0,0,2,3,0,0,0,0,14.90384615,2020,Regular,Grass,66,clear sky,11.41
+9983,4064,2016,15,Fitzpatrick,R,QB,12,Dolphins,Jets,10,5,31,0,1,0,0,2,11,0,0,0,0,15,2016,Regular,Turf,33.8,overcast,4.6
+30634,5382,2020,12,Newton,C,QB,1,Cardinals,Patriots,18,9,84,0,2,3,15,9,46,0,0,0,0,16.89814815,2020,Regular,Turf,53,clear sky,9.17
